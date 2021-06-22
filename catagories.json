@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 84,
+    "name": "Jewelry",
+    "url": "https://api.thingiverse.com/categories/jewelry",
+    "count": 9244,
+    "slug": "jewelry",
+    "things_url": "https://api.thingiverse.com/categories/jewelry/things",
+    "design_id": 57476
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 96457
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 72215
+  },
+  {
+    "id": 80,
+    "name": "Sculptures",
+    "url": "https://api.thingiverse.com/categories/sculptures",
+    "count": 40252,
+    "slug": "sculptures",
+    "things_url": "https://api.thingiverse.com/categories/sculptures/things",
+    "design_id": 33870
+  },
+  {
+    "id": 84,
+    "name": "Jewelry",
+    "url": "https://api.thingiverse.com/categories/jewelry",
+    "count": 9244,
+    "slug": "jewelry",
+    "things_url": "https://api.thingiverse.com/categories/jewelry/things",
+    "design_id": 55046
+  },
+  {
+    "id": 84,
+    "name": "Jewelry",
+    "url": "https://api.thingiverse.com/categories/jewelry",
+    "count": 9244,
+    "slug": "jewelry",
+    "things_url": "https://api.thingiverse.com/categories/jewelry/things",
+    "design_id": 57950
+  },
+  {
+    "id": 84,
+    "name": "Jewelry",
+    "url": "https://api.thingiverse.com/categories/jewelry",
+    "count": 9244,
+    "slug": "jewelry",
+    "things_url": "https://api.thingiverse.com/categories/jewelry/things",
+    "design_id": 57501
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 34110
+  },
+  {
+    "id": 145,
+    "name": "Scans & Replicas",
+    "url": "https://api.thingiverse.com/categories/scans-and-replicas",
+    "count": 8723,
+    "slug": "scans-and-replicas",
+    "things_url": "https://api.thingiverse.com/categories/scans-and-replicas/things",
+    "design_id": 26777
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19868
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19638
+  },
+  {
+    "id": 111,
+    "name": "Model Furniture",
+    "url": "https://api.thingiverse.com/categories/model-furniture",
+    "count": 2527,
+    "slug": "model-furniture",
+    "things_url": "https://api.thingiverse.com/categories/model-furniture/things",
+    "design_id": 19894
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19755
+  },
+  {
+    "id": 69,
+    "name": "Learning",
+    "url": "https://api.thingiverse.com/categories/learning",
+    "count": 29495,
+    "slug": "learning",
+    "things_url": "https://api.thingiverse.com/categories/learning/things",
+    "design_id": 24915
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19566
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 11946
+  },
+  {
+    "id": 76,
+    "name": "Signs & Logos",
+    "url": "https://api.thingiverse.com/categories/signs-and-logos",
+    "count": 51441,
+    "slug": "signs-and-logos",
+    "things_url": "https://api.thingiverse.com/categories/signs-and-logos/things",
+    "design_id": 26330
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 10001
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 9998
+  },
+  {
+    "id": 97,
+    "name": "Decor",
+    "url": "https://api.thingiverse.com/categories/decor",
+    "count": 36854,
+    "slug": "decor",
+    "things_url": "https://api.thingiverse.com/categories/decor/things",
+    "design_id": 1660518
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 9999
+  },
+  {
+    "id": 97,
+    "name": "Decor",
+    "url": "https://api.thingiverse.com/categories/decor",
+    "count": 36854,
+    "slug": "decor",
+    "things_url": "https://api.thingiverse.com/categories/decor/things",
+    "design_id": 1660521
+  },
+  {
+    "id": 97,
+    "name": "Decor",
+    "url": "https://api.thingiverse.com/categories/decor",
+    "count": 36854,
+    "slug": "decor",
+    "things_url": "https://api.thingiverse.com/categories/decor/things",
+    "design_id": 1646315
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 1169514
+  },
+  {
+    "id": 97,
+    "name": "Decor",
+    "url": "https://api.thingiverse.com/categories/decor",
+    "count": 36854,
+    "slug": "decor",
+    "things_url": "https://api.thingiverse.com/categories/decor/things",
+    "design_id": 1660513
+  },
+  {
+    "id": 98,
+    "name": "Outdoor & Garden",
+    "url": "https://api.thingiverse.com/categories/outdoor-and-garden",
+    "count": 24489,
+    "slug": "outdoor-and-garden",
+    "things_url": "https://api.thingiverse.com/categories/outdoor-and-garden/things",
+    "design_id": 1625573
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 376601
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 370051
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 341719
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 327753
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 323038
+  },
+  {
+    "id": 149,
+    "name": "Toy & Game Accessories",
+    "url": "https://api.thingiverse.com/categories/toy-and-game-accessories",
+    "count": 43161,
+    "slug": "toy-and-game-accessories",
+    "things_url": "https://api.thingiverse.com/categories/toy-and-game-accessories/things",
+    "design_id": 319413
+  },
+  {
+    "id": 85,
+    "name": "Rings",
+    "url": "https://api.thingiverse.com/categories/rings",
+    "count": 14342,
+    "slug": "rings",
+    "things_url": "https://api.thingiverse.com/categories/rings/things",
+    "design_id": 210191
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 301720
+  },
+  {
+    "id": 85,
+    "name": "Rings",
+    "url": "https://api.thingiverse.com/categories/rings",
+    "count": 14342,
+    "slug": "rings",
+    "things_url": "https://api.thingiverse.com/categories/rings/things",
+    "design_id": 210178
+  },
+  {
+    "id": 85,
+    "name": "Rings",
+    "url": "https://api.thingiverse.com/categories/rings",
+    "count": 14342,
+    "slug": "rings",
+    "things_url": "https://api.thingiverse.com/categories/rings/things",
+    "design_id": 210170
+  },
+  {
+    "id": 85,
+    "name": "Rings",
+    "url": "https://api.thingiverse.com/categories/rings",
+    "count": 14342,
+    "slug": "rings",
+    "things_url": "https://api.thingiverse.com/categories/rings/things",
+    "design_id": 208661
+  },
+  {
+    "id": 81,
+    "name": "Accessories",
+    "url": "https://api.thingiverse.com/categories/accessories",
+    "count": 33420,
+    "slug": "accessories",
+    "things_url": "https://api.thingiverse.com/categories/accessories/things",
+    "design_id": 193292
+  },
+  {
+    "id": 85,
+    "name": "Rings",
+    "url": "https://api.thingiverse.com/categories/rings",
+    "count": 14342,
+    "slug": "rings",
+    "things_url": "https://api.thingiverse.com/categories/rings/things",
+    "design_id": 179254
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3381844
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3379463
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3378509
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3377472
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3375742
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3371870
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3370134
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3367322
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3367751
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3366861
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3365676
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3374642
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3364749
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3363448
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3361976
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3362393
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3359984
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3357858
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3358446
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3356110
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1720970
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 1715890
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 1699265
+  },
+  {
+    "id": 88,
+    "name": "Mobile Phone",
+    "url": "https://api.thingiverse.com/categories/mobile-phone",
+    "count": 38371,
+    "slug": "mobile-phone",
+    "things_url": "https://api.thingiverse.com/categories/mobile-phone/things",
+    "design_id": 1692093
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 1668635
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1682293
+  },
+  {
+    "id": 102,
+    "name": "Organization",
+    "url": "https://api.thingiverse.com/categories/organization",
+    "count": 93016,
+    "slug": "organization",
+    "things_url": "https://api.thingiverse.com/categories/organization/things",
+    "design_id": 1659763
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 1711186
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 1653210
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 1652852
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1649799
+  },
+  {
+    "id": 95,
+    "name": "R/C Vehicles",
+    "url": "https://api.thingiverse.com/categories/rc-vehicles",
+    "count": 73252,
+    "slug": "rc-vehicles",
+    "things_url": "https://api.thingiverse.com/categories/rc-vehicles/things",
+    "design_id": 1611044
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1601055
+  },
+  {
+    "id": 95,
+    "name": "R/C Vehicles",
+    "url": "https://api.thingiverse.com/categories/rc-vehicles",
+    "count": 73252,
+    "slug": "rc-vehicles",
+    "things_url": "https://api.thingiverse.com/categories/rc-vehicles/things",
+    "design_id": 1600373
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1587209
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 1568731
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1546607
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1506862
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 1458176
+  },
+  {
+    "id": 79,
+    "name": "Math Art",
+    "url": "https://api.thingiverse.com/categories/math-art",
+    "count": 9255,
+    "slug": "math-art",
+    "things_url": "https://api.thingiverse.com/categories/math-art/things",
+    "design_id": 1453733
+  },
+  {
+    "id": 151,
+    "name": "Chess",
+    "url": "https://api.thingiverse.com/categories/chess",
+    "count": 2151,
+    "slug": "chess",
+    "things_url": "https://api.thingiverse.com/categories/chess/things",
+    "design_id": 20254
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 20178
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 20169
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 20055
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 20128
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19961
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19926
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19820
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19841
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19745
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19697
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19694
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19676
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19683
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19675
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19500
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19659
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19447
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19472
+  },
+  {
+    "id": 0,
+    "name": "Other",
+    "url": "https://api.thingiverse.com/categories/other",
+    "count": 79046,
+    "slug": "other",
+    "things_url": "https://api.thingiverse.com/categories/other/things",
+    "design_id": 19486
+  },
+  {
+    "id": 121,
+    "name": "Construction Toys",
+    "url": "https://api.thingiverse.com/categories/construction-toys",
+    "count": 14906,
+    "slug": "construction-toys",
+    "things_url": "https://api.thingiverse.com/categories/construction-toys/things",
+    "design_id": 631541
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 570536
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 635882
+  },
+  {
+    "id": 129,
+    "name": "3D Printing Tests",
+    "url": "https://api.thingiverse.com/categories/3d-printing-tests",
+    "count": 18352,
+    "slug": "3d-printing-tests",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing-tests/things",
+    "design_id": 607968
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 604915
+  },
+  {
+    "id": 99,
+    "name": "Household Supplies",
+    "url": "https://api.thingiverse.com/categories/household-supplies",
+    "count": 11100,
+    "slug": "household-supplies",
+    "things_url": "https://api.thingiverse.com/categories/household-supplies/things",
+    "design_id": 597043
+  },
+  {
+    "id": 99,
+    "name": "Household Supplies",
+    "url": "https://api.thingiverse.com/categories/household-supplies",
+    "count": 11100,
+    "slug": "household-supplies",
+    "things_url": "https://api.thingiverse.com/categories/household-supplies/things",
+    "design_id": 595112
+  },
+  {
+    "id": 129,
+    "name": "3D Printing Tests",
+    "url": "https://api.thingiverse.com/categories/3d-printing-tests",
+    "count": 18352,
+    "slug": "3d-printing-tests",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing-tests/things",
+    "design_id": 591852
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 589515
+  },
+  {
+    "id": 141,
+    "name": "Audio",
+    "url": "https://api.thingiverse.com/categories/audio",
+    "count": 7850,
+    "slug": "audio",
+    "things_url": "https://api.thingiverse.com/categories/audio/things",
+    "design_id": 562745
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 589149
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 525765
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 542187
+  },
+  {
+    "id": 129,
+    "name": "3D Printing Tests",
+    "url": "https://api.thingiverse.com/categories/3d-printing-tests",
+    "count": 18352,
+    "slug": "3d-printing-tests",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing-tests/things",
+    "design_id": 538624
+  },
+  {
+    "id": 129,
+    "name": "3D Printing Tests",
+    "url": "https://api.thingiverse.com/categories/3d-printing-tests",
+    "count": 18352,
+    "slug": "3d-printing-tests",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing-tests/things",
+    "design_id": 533814
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 533853
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 510765
+  },
+  {
+    "id": 90,
+    "name": "Tablet",
+    "url": "https://api.thingiverse.com/categories/tablet",
+    "count": 4303,
+    "slug": "tablet",
+    "things_url": "https://api.thingiverse.com/categories/tablet/things",
+    "design_id": 512350
+  },
+  {
+    "id": 128,
+    "name": "3D Printer Parts",
+    "url": "https://api.thingiverse.com/categories/3d-printer-parts",
+    "count": 98551,
+    "slug": "3d-printer-parts",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-parts/things",
+    "design_id": 510661
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 492446
+  },
+  {
+    "id": 102,
+    "name": "Organization",
+    "url": "https://api.thingiverse.com/categories/organization",
+    "count": 93016,
+    "slug": "organization",
+    "things_url": "https://api.thingiverse.com/categories/organization/things",
+    "design_id": 3501868
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 3492337
+  },
+  {
+    "id": 118,
+    "name": "Hand Tools",
+    "url": "https://api.thingiverse.com/categories/hand-tools",
+    "count": 18689,
+    "slug": "hand-tools",
+    "things_url": "https://api.thingiverse.com/categories/hand-tools/things",
+    "design_id": 3421158
+  },
+  {
+    "id": 124,
+    "name": "Mechanical Toys",
+    "url": "https://api.thingiverse.com/categories/mechanical-toys",
+    "count": 15944,
+    "slug": "mechanical-toys",
+    "things_url": "https://api.thingiverse.com/categories/mechanical-toys/things",
+    "design_id": 3304250
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 3293562
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 3327968
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 3158874
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 3157266
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 3137158
+  },
+  {
+    "id": 96,
+    "name": "Robotics",
+    "url": "https://api.thingiverse.com/categories/robotics",
+    "count": 13635,
+    "slug": "robotics",
+    "things_url": "https://api.thingiverse.com/categories/robotics/things",
+    "design_id": 3116728
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 2951164
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 2888690
+  },
+  {
+    "id": 96,
+    "name": "Robotics",
+    "url": "https://api.thingiverse.com/categories/robotics",
+    "count": 13635,
+    "slug": "robotics",
+    "things_url": "https://api.thingiverse.com/categories/robotics/things",
+    "design_id": 2790919
+  },
+  {
+    "id": 124,
+    "name": "Mechanical Toys",
+    "url": "https://api.thingiverse.com/categories/mechanical-toys",
+    "count": 15944,
+    "slug": "mechanical-toys",
+    "things_url": "https://api.thingiverse.com/categories/mechanical-toys/things",
+    "design_id": 2720021
+  },
+  {
+    "id": 124,
+    "name": "Mechanical Toys",
+    "url": "https://api.thingiverse.com/categories/mechanical-toys",
+    "count": 15944,
+    "slug": "mechanical-toys",
+    "things_url": "https://api.thingiverse.com/categories/mechanical-toys/things",
+    "design_id": 2773350
+  },
+  {
+    "id": 118,
+    "name": "Hand Tools",
+    "url": "https://api.thingiverse.com/categories/hand-tools",
+    "count": 18689,
+    "slug": "hand-tools",
+    "things_url": "https://api.thingiverse.com/categories/hand-tools/things",
+    "design_id": 2695231
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 2694806
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 2680517
+  },
+  {
+    "id": 104,
+    "name": "Engineering",
+    "url": "https://api.thingiverse.com/categories/engineering",
+    "count": 8164,
+    "slug": "engineering",
+    "things_url": "https://api.thingiverse.com/categories/engineering/things",
+    "design_id": 2663563
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 2642320
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3686964
+  },
+  {
+    "id": 72,
+    "name": "Toys & Games",
+    "url": "https://api.thingiverse.com/categories/toys-and-games",
+    "count": 156151,
+    "slug": "toys-and-games",
+    "things_url": "https://api.thingiverse.com/categories/toys-and-games/things",
+    "design_id": 3685385
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3685130
+  },
+  {
+    "id": 91,
+    "name": "Video Games",
+    "url": "https://api.thingiverse.com/categories/video-games",
+    "count": 14750,
+    "slug": "video-games",
+    "things_url": "https://api.thingiverse.com/categories/video-games/things",
+    "design_id": 3627820
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3613621
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3672910
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3582947
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3553481
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3592704
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3516810
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3538700
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3498923
+  },
+  {
+    "id": 73,
+    "name": "3D Printing",
+    "url": "https://api.thingiverse.com/categories/3d-printing",
+    "count": 410140,
+    "slug": "3d-printing",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing/things",
+    "design_id": 3494303
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 3484548
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3469747
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 3457290
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3424130
+  },
+  {
+    "id": 73,
+    "name": "3D Printing",
+    "url": "https://api.thingiverse.com/categories/3d-printing",
+    "count": 410140,
+    "slug": "3d-printing",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing/things",
+    "design_id": 3412352
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3390903
+  },
+  {
+    "id": 97,
+    "name": "Decor",
+    "url": "https://api.thingiverse.com/categories/decor",
+    "count": 36854,
+    "slug": "decor",
+    "things_url": "https://api.thingiverse.com/categories/decor/things",
+    "design_id": 3389779
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3379567
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3429201
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 3289858
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3158065
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3148234
+  },
+  {
+    "id": 71,
+    "name": "Tools",
+    "url": "https://api.thingiverse.com/categories/tools",
+    "count": 128589,
+    "slug": "tools",
+    "things_url": "https://api.thingiverse.com/categories/tools/things",
+    "design_id": 3142787
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3139427
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3147650
+  },
+  {
+    "id": 66,
+    "name": "Hobby",
+    "url": "https://api.thingiverse.com/categories/hobby",
+    "count": 282189,
+    "slug": "hobby",
+    "things_url": "https://api.thingiverse.com/categories/hobby/things",
+    "design_id": 3131549
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3128764
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 3092877
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 3084138
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3079231
+  },
+  {
+    "id": 65,
+    "name": "Gadgets",
+    "url": "https://api.thingiverse.com/categories/gadgets",
+    "count": 122284,
+    "slug": "gadgets",
+    "things_url": "https://api.thingiverse.com/categories/gadgets/things",
+    "design_id": 3077335
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3074621
+  },
+  {
+    "id": 71,
+    "name": "Tools",
+    "url": "https://api.thingiverse.com/categories/tools",
+    "count": 128589,
+    "slug": "tools",
+    "things_url": "https://api.thingiverse.com/categories/tools/things",
+    "design_id": 3071541
+  },
+  {
+    "id": 71,
+    "name": "Tools",
+    "url": "https://api.thingiverse.com/categories/tools",
+    "count": 128589,
+    "slug": "tools",
+    "things_url": "https://api.thingiverse.com/categories/tools/things",
+    "design_id": 3070677
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3070638
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 3061932
+  },
+  {
+    "id": 93,
+    "name": "DIY",
+    "url": "https://api.thingiverse.com/categories/diy",
+    "count": 43555,
+    "slug": "diy",
+    "things_url": "https://api.thingiverse.com/categories/diy/things",
+    "design_id": 3052926
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 210129
+  },
+  {
+    "id": 130,
+    "name": "Keychains",
+    "url": "https://api.thingiverse.com/categories/keychains",
+    "count": 99721,
+    "slug": "keychains",
+    "things_url": "https://api.thingiverse.com/categories/keychains/things",
+    "design_id": 210136
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 190143
+  },
+  {
+    "id": 90,
+    "name": "Tablet",
+    "url": "https://api.thingiverse.com/categories/tablet",
+    "count": 4303,
+    "slug": "tablet",
+    "things_url": "https://api.thingiverse.com/categories/tablet/things",
+    "design_id": 189730
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 184905
+  },
+  {
+    "id": 130,
+    "name": "Keychains",
+    "url": "https://api.thingiverse.com/categories/keychains",
+    "count": 99721,
+    "slug": "keychains",
+    "things_url": "https://api.thingiverse.com/categories/keychains/things",
+    "design_id": 184919
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 185314
+  },
+  {
+    "id": 90,
+    "name": "Tablet",
+    "url": "https://api.thingiverse.com/categories/tablet",
+    "count": 4303,
+    "slug": "tablet",
+    "things_url": "https://api.thingiverse.com/categories/tablet/things",
+    "design_id": 164904
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 184925
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 184908
+  },
+  {
+    "id": 90,
+    "name": "Tablet",
+    "url": "https://api.thingiverse.com/categories/tablet",
+    "count": 4303,
+    "slug": "tablet",
+    "things_url": "https://api.thingiverse.com/categories/tablet/things",
+    "design_id": 164041
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 91918
+  },
+  {
+    "id": 90,
+    "name": "Tablet",
+    "url": "https://api.thingiverse.com/categories/tablet",
+    "count": 4303,
+    "slug": "tablet",
+    "things_url": "https://api.thingiverse.com/categories/tablet/things",
+    "design_id": 91942
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 91947
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 59332
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 59933
+  },
+  {
+    "id": 139,
+    "name": "Earrings",
+    "url": "https://api.thingiverse.com/categories/earrings",
+    "count": 2937,
+    "slug": "earrings",
+    "things_url": "https://api.thingiverse.com/categories/earrings/things",
+    "design_id": 59270
+  },
+  {
+    "id": 80,
+    "name": "Sculptures",
+    "url": "https://api.thingiverse.com/categories/sculptures",
+    "count": 40252,
+    "slug": "sculptures",
+    "things_url": "https://api.thingiverse.com/categories/sculptures/things",
+    "design_id": 59289
+  },
+  {
+    "id": 81,
+    "name": "Accessories",
+    "url": "https://api.thingiverse.com/categories/accessories",
+    "count": 33420,
+    "slug": "accessories",
+    "things_url": "https://api.thingiverse.com/categories/accessories/things",
+    "design_id": 58406
+  },
+  {
+    "id": 100,
+    "name": "Kitchen & Dining",
+    "url": "https://api.thingiverse.com/categories/kitchen-and-dining",
+    "count": 47198,
+    "slug": "kitchen-and-dining",
+    "things_url": "https://api.thingiverse.com/categories/kitchen-and-dining/things",
+    "design_id": 58170
+  },
+  {
+    "id": 120,
+    "name": "Tool Holders & Boxes",
+    "url": "https://api.thingiverse.com/categories/tool-holders-and-boxes",
+    "count": 26126,
+    "slug": "tool-holders-and-boxes",
+    "things_url": "https://api.thingiverse.com/categories/tool-holders-and-boxes/things",
+    "design_id": 4577987
+  },
+  {
+    "id": 87,
+    "name": "Computer",
+    "url": "https://api.thingiverse.com/categories/computer",
+    "count": 23922,
+    "slug": "computer",
+    "things_url": "https://api.thingiverse.com/categories/computer/things",
+    "design_id": 4578264
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 2854618
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 2890048
+  },
+  {
+    "id": 98,
+    "name": "Outdoor & Garden",
+    "url": "https://api.thingiverse.com/categories/outdoor-and-garden",
+    "count": 24489,
+    "slug": "outdoor-and-garden",
+    "things_url": "https://api.thingiverse.com/categories/outdoor-and-garden/things",
+    "design_id": 2874506
+  },
+  {
+    "id": 92,
+    "name": "Electronics",
+    "url": "https://api.thingiverse.com/categories/electronics",
+    "count": 51987,
+    "slug": "electronics",
+    "things_url": "https://api.thingiverse.com/categories/electronics/things",
+    "design_id": 2867112
+  },
+  {
+    "id": 128,
+    "name": "3D Printer Parts",
+    "url": "https://api.thingiverse.com/categories/3d-printer-parts",
+    "count": 98551,
+    "slug": "3d-printer-parts",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-parts/things",
+    "design_id": 2873181
+  },
+  {
+    "id": 120,
+    "name": "Tool Holders & Boxes",
+    "url": "https://api.thingiverse.com/categories/tool-holders-and-boxes",
+    "count": 26126,
+    "slug": "tool-holders-and-boxes",
+    "things_url": "https://api.thingiverse.com/categories/tool-holders-and-boxes/things",
+    "design_id": 2840214
+  },
+  {
+    "id": 124,
+    "name": "Mechanical Toys",
+    "url": "https://api.thingiverse.com/categories/mechanical-toys",
+    "count": 15944,
+    "slug": "mechanical-toys",
+    "things_url": "https://api.thingiverse.com/categories/mechanical-toys/things",
+    "design_id": 2139275
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 2853136
+  },
+  {
+    "id": 128,
+    "name": "3D Printer Parts",
+    "url": "https://api.thingiverse.com/categories/3d-printer-parts",
+    "count": 98551,
+    "slug": "3d-printer-parts",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-parts/things",
+    "design_id": 2838773
+  },
+  {
+    "id": 88,
+    "name": "Mobile Phone",
+    "url": "https://api.thingiverse.com/categories/mobile-phone",
+    "count": 38371,
+    "slug": "mobile-phone",
+    "things_url": "https://api.thingiverse.com/categories/mobile-phone/things",
+    "design_id": 2839176
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 2838110
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 2826945
+  },
+  {
+    "id": 101,
+    "name": "Office",
+    "url": "https://api.thingiverse.com/categories/office",
+    "count": 47224,
+    "slug": "office",
+    "things_url": "https://api.thingiverse.com/categories/office/things",
+    "design_id": 2838763
+  },
+  {
+    "id": 124,
+    "name": "Mechanical Toys",
+    "url": "https://api.thingiverse.com/categories/mechanical-toys",
+    "count": 15944,
+    "slug": "mechanical-toys",
+    "things_url": "https://api.thingiverse.com/categories/mechanical-toys/things",
+    "design_id": 2823006
+  },
+  {
+    "id": 117,
+    "name": "Machine Tools",
+    "url": "https://api.thingiverse.com/categories/machine-tools",
+    "count": 9819,
+    "slug": "machine-tools",
+    "things_url": "https://api.thingiverse.com/categories/machine-tools/things",
+    "design_id": 2798956
+  },
+  {
+    "id": 152,
+    "name": "3D Printer Extruders",
+    "url": "https://api.thingiverse.com/categories/3d-printer-extruders",
+    "count": 10011,
+    "slug": "3d-printer-extruders",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-extruders/things",
+    "design_id": 2790958
+  },
+  {
+    "id": 118,
+    "name": "Hand Tools",
+    "url": "https://api.thingiverse.com/categories/hand-tools",
+    "count": 18689,
+    "slug": "hand-tools",
+    "things_url": "https://api.thingiverse.com/categories/hand-tools/things",
+    "design_id": 2798953
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 2798864
+  },
+  {
+    "id": 129,
+    "name": "3D Printing Tests",
+    "url": "https://api.thingiverse.com/categories/3d-printing-tests",
+    "count": 18352,
+    "slug": "3d-printing-tests",
+    "things_url": "https://api.thingiverse.com/categories/3d-printing-tests/things",
+    "design_id": 58218
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 57681
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 56910
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 57281
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 49254
+  },
+  {
+    "id": 127,
+    "name": "3D Printer Accessories",
+    "url": "https://api.thingiverse.com/categories/3d-printer-accessories",
+    "count": 107303,
+    "slug": "3d-printer-accessories",
+    "things_url": "https://api.thingiverse.com/categories/3d-printer-accessories/things",
+    "design_id": 56021
+  },
+  {
+    "id": 146,
+    "name": "Containers",
+    "url": "https://api.thingiverse.com/categories/containers",
+    "count": 34245,
+    "slug": "containers",
+    "things_url": "https://api.thingiverse.com/categories/containers/things",
+    "design_id": 51376
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 51112
+  },
+  {
+    "id": 140,
+    "name": "Sport & Outdoors",
+    "url": "https://api.thingiverse.com/categories/sports-and-outdoors",
+    "count": 39635,
+    "slug": "sports-and-outdoors",
+    "things_url": "https://api.thingiverse.com/categories/sports-and-outdoors/things",
+    "design_id": 50844
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 47564
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 47745
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "url": "https://api.thingiverse.com/categories/camera",
+    "count": 21501,
+    "slug": "camera",
+    "things_url": "https://api.thingiverse.com/categories/camera/things",
+    "design_id": 47282
+  },
+  {
+    "id": 102,
+    "name": "Organization",
+    "url": "https://api.thingiverse.com/categories/organization",
+    "count": 93016,
+    "slug": "organization",
+    "things_url": "https://api.thingiverse.com/categories/organization/things",
+    "design_id": 48235
+  }
+]

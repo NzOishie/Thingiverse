@@ -1,0 +1,2616 @@
+[
+  {
+    "id": 61119,
+    "name": "Undefined",
+    "first_name": "",
+    "last_name": "",
+    "full_name": "",
+    "url": "https://api.thingiverse.com/users/Undefined",
+    "public_url": "https://www.thingiverse.com/Undefined",
+    "thumbnail": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_medium.jpg",
+    "bio": "",
+    "bio_html": "<div></div>\n",
+    "location": "",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2013-04-01T01:24:47+00:00",
+    "last_active": "2020-12-06T21:53:35+00:00",
+    "cover_image": "https://cdn.thingiverse.com/site/img/default/cover/cover-4_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/Undefined/things",
+    "copies_url": "https://api.thingiverse.com/users/Undefined/copies",
+    "likes_url": "https://api.thingiverse.com/users/Undefined/likes",
+    "printers": [],
+    "programs": [],
+    "types": [],
+    "skill_level": "",
+    "accepts_tips": false,
+    "groups": [],
+    "website": "",
+    "twitter": null,
+    "count_of_followers": 142037,
+    "count_of_following": 0,
+    "count_of_designs": 1,
+    "collection_count": 1,
+    "make_count": 1,
+    "like_count": 51,
+    "has_favorite": false,
+    "favorite_count": 0,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 42134,
+    "name": "muzz64",
+    "first_name": "Murray",
+    "last_name": "Clark",
+    "full_name": "Murray Clark",
+    "url": "https://api.thingiverse.com/users/muzz64",
+    "public_url": "https://www.thingiverse.com/muzz64",
+    "thumbnail": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_designer_thumb_medium.jpg",
+    "bio": "",
+    "bio_html": "<div></div>\n",
+    "location": "Auckland, New Zealand",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2013-01-21T03:04:46+00:00",
+    "last_active": "2021-06-20T21:50:18+00:00",
+    "cover_image": "https://cdn.thingiverse.com/site/img/default/cover/cover-3_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/muzz64/things",
+    "copies_url": "https://api.thingiverse.com/users/muzz64/copies",
+    "likes_url": "https://api.thingiverse.com/users/muzz64/likes",
+    "printers": [
+      {
+        "id": 19087,
+        "name": "MakerBot Replicator+",
+        "public_url": "MakerBot Replicator+"
+      }
+    ],
+    "programs": [
+      {
+        "id": 38,
+        "name": "Rhino"
+      }
+    ],
+    "types": [
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 11,
+        "name": "Engineer"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": false,
+    "groups": [
+      {
+        "id": 4618,
+        "name": "MakerBot Labs",
+        "public_url": "https://www.thingiverse.com/groups/makerbot-labs"
+      }
+    ],
+    "website": "",
+    "twitter": null,
+    "count_of_followers": 21660,
+    "count_of_following": 0,
+    "count_of_designs": 257,
+    "collection_count": 1,
+    "make_count": 0,
+    "like_count": 0,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": true
+  },
+  {
+    "id": 26992,
+    "name": "loubie",
+    "first_name": "Louise",
+    "last_name": "Driggers",
+    "full_name": "Louise Driggers",
+    "url": "https://api.thingiverse.com/users/loubie",
+    "public_url": "https://www.thingiverse.com/loubie",
+    "thumbnail": "https://cdn.thingiverse.com/renders/56/1a/39/2d/a8/81fc9f866f4c909cbc0be6c65d1cf524_thumb_medium.jpg",
+    "bio": "British techie moved to Texas in 2013. Now a full time, freelance artist.\r\n\r\nInterested in articulation and assemblies. Fan of support-free models.\r\n\r\nJohn Joseph Merlin is my hero.\r\n\r\nI have a few pay-for models available here:\r\n\r\nhttps://cults3d.com/en/users/loubie/creations\r\n\r\nIf you have enjoyed my work and want to say thanks, then please consider something from my Wish List:\r\n\r\nhttp://a.co/czqBn4M\r\n\r\n\r\nhttps://www.prusaprinters.org/social/51341-loubie3d/prints",
+    "bio_html": "<div><p>British techie moved to Texas in 2013. Now a full time, freelance artist.</p>\n<p>Interested in articulation and assemblies. Fan of support-free models.</p>\n<p>John Joseph Merlin is my hero.</p>\n<p>I have a few pay-for models available here:</p>\n<p><a rel=\"nofollow\" href=\"https://cults3d.com/en/users/loubie/creations\">https://cults3d.com/en/users/loubie/creations</a></p>\n<p>If you have enjoyed my work and want to say thanks, then please consider something from my Wish List:</p>\n<p><a rel=\"nofollow\" href=\"http://a.co/czqBn4M\">http://a.co/czqBn4M</a></p>\n<p><a rel=\"nofollow\" href=\"https://www.prusaprinters.org/social/51341-loubie3d/prints\">https://www.prusaprinters.org/social/51341-loubie3d/prints</a></p></div>\n",
+    "location": "Richmond,  TX",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2012-08-15T05:55:20+00:00",
+    "last_active": "2021-04-23T23:48:25+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/c8/cf/8f/88/55/2475308f696040620dc63e8d6cce1995_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/loubie/things",
+    "copies_url": "https://api.thingiverse.com/users/loubie/copies",
+    "likes_url": "https://api.thingiverse.com/users/loubie/likes",
+    "printers": [
+      {
+        "id": 703,
+        "name": "Prusa i3",
+        "public_url": "Prusa i3"
+      }
+    ],
+    "programs": [
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      },
+      {
+        "id": 41,
+        "name": "Solidworks"
+      },
+      {
+        "id": 33,
+        "name": "MeshLab"
+      },
+      {
+        "id": 34,
+        "name": "MeshMixer"
+      },
+      {
+        "id": 32,
+        "name": "Maya"
+      },
+      {
+        "id": 29,
+        "name": "Inkscape"
+      },
+      {
+        "id": 36,
+        "name": "Photoshop"
+      }
+    ],
+    "types": [
+      {
+        "id": 2,
+        "name": "Artist"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 76,
+        "name": "Quadcopters",
+        "public_url": "https://www.thingiverse.com/groups/quadcopters"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 3,
+        "name": "Blender 3D",
+        "public_url": "https://www.thingiverse.com/groups/blender3d"
+      },
+      {
+        "id": 118,
+        "name": "Texas Makers",
+        "public_url": "https://www.thingiverse.com/groups/texas-makers"
+      }
+    ],
+    "website": "",
+    "twitter": {
+      "account_name": "loubie_3D",
+      "account_url": "http://twitter.com/loubie_3D"
+    },
+    "count_of_followers": 21528,
+    "count_of_following": 75,
+    "count_of_designs": 46,
+    "collection_count": 2,
+    "make_count": 39,
+    "like_count": 918,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 504987,
+    "name": "stockto",
+    "first_name": "Andrew",
+    "last_name": "Stockton",
+    "full_name": "Andrew Stockton",
+    "url": "https://api.thingiverse.com/users/stockto",
+    "public_url": "https://www.thingiverse.com/stockto",
+    "thumbnail": "https://cdn.thingiverse.com/renders/3a/28/e6/89/b4/profpic_thumb_medium.jpg",
+    "bio": "3D artist/software designer, specializing in customizable objects. ",
+    "bio_html": "<div><p>3D artist/software designer, specializing in customizable objects. </p></div>\n",
+    "location": "US",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2015-05-07T17:58:32+00:00",
+    "last_active": "2021-01-02T18:41:12+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/9a/f5/72/e0/62/Game3_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/stockto/things",
+    "copies_url": "https://api.thingiverse.com/users/stockto/copies",
+    "likes_url": "https://api.thingiverse.com/users/stockto/likes",
+    "printers": [],
+    "programs": [
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      },
+      {
+        "id": 36,
+        "name": "Photoshop"
+      }
+    ],
+    "types": [
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      }
+    ],
+    "skill_level": "Intermediate",
+    "accepts_tips": false,
+    "groups": [],
+    "website": "https://www.facebook.com/desktophero3D/?ref=thingiverse",
+    "twitter": null,
+    "count_of_followers": 23492,
+    "count_of_following": 13,
+    "count_of_designs": 32,
+    "collection_count": 1,
+    "make_count": 8,
+    "like_count": 110,
+    "has_favorite": false,
+    "favorite_count": 0,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 50907,
+    "name": "bendansie",
+    "first_name": "",
+    "last_name": "",
+    "full_name": "",
+    "url": "https://api.thingiverse.com/users/bendansie",
+    "public_url": "https://www.thingiverse.com/bendansie",
+    "thumbnail": "https://cdn.thingiverse.com/assets/31/84/34/27/a7/Ben_200px.jpg",
+    "bio": "Greetings all! 3D artist with over 10 years professional experience working in Australia with a passion for 3d printing and how it can bridge digital and traditional / physical art forms. Largely a Blender / Zbrush user. Working in jewellery, medals, replica work, mild prototyping and of course character sculpture.\r\n\r\nAvailable for commissions!\r\n\r\nhttps://www.instagram.com/bendansie3d/\r\n\r\nhttps://www.artstation.com/bendansie\r\n\r\nhttps://vimeo.com/bendansie\r\n\r\nhttps://www.shapeways.com/shops/bendansie\r\n",
+    "bio_html": "<div><p>Greetings all! 3D artist with over 10 years professional experience working in Australia with a passion for 3d printing and how it can bridge digital and traditional / physical art forms. Largely a Blender / Zbrush user. Working in jewellery, medals, replica work, mild prototyping and of course character sculpture.</p>\n<p>Available for commissions!</p>\n<p><a rel=\"nofollow\" href=\"https://www.instagram.com/bendansie3d/\">https://www.instagram.com/bendansie3d/</a></p>\n<p><a rel=\"nofollow\" href=\"https://www.artstation.com/bendansie\">https://www.artstation.com/bendansie</a></p>\n<p><a rel=\"nofollow\" href=\"https://vimeo.com/bendansie\">https://vimeo.com/bendansie</a></p>\n<p><a rel=\"nofollow\" href=\"https://www.shapeways.com/shops/bendansie\">https://www.shapeways.com/shops/bendansie</a></p></div>\n",
+    "location": "Australia",
+    "country": null,
+    "industry": "Commercial/Professional",
+    "subindustry": null,
+    "registered": "2013-02-24T08:28:04+00:00",
+    "last_active": "2021-06-22T14:30:39+00:00",
+    "cover_image": "https://cdn.thingiverse.com/assets/c6/e7/95/03/82/ThingiverseCover_01.jpg",
+    "things_url": "https://api.thingiverse.com/users/bendansie/things",
+    "copies_url": "https://api.thingiverse.com/users/bendansie/copies",
+    "likes_url": "https://api.thingiverse.com/users/bendansie/likes",
+    "printers": [
+      {
+        "id": 16363,
+        "name": "Dremel 3D40",
+        "public_url": "Dremel 3D40"
+      },
+      {
+        "id": 35941,
+        "name": "Kudo Bean3D",
+        "public_url": "Kudo Bean3D"
+      },
+      {
+        "id": 36833,
+        "name": "3D45",
+        "public_url": "3D45"
+      }
+    ],
+    "programs": [
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 44,
+        "name": "ZBrush"
+      }
+    ],
+    "types": [
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 12,
+        "name": "Professional"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 724,
+        "name": "Zbrush Artists",
+        "public_url": "https://www.thingiverse.com/groups/zbrush-artists"
+      }
+    ],
+    "website": "http://bendansie.com/",
+    "twitter": null,
+    "count_of_followers": 21291,
+    "count_of_following": 42,
+    "count_of_designs": 25,
+    "collection_count": 1,
+    "make_count": 36,
+    "like_count": 48,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 996783,
+    "name": "printing4u",
+    "first_name": "",
+    "last_name": "",
+    "full_name": "",
+    "url": "https://api.thingiverse.com/users/printing4u",
+    "public_url": "https://www.thingiverse.com/printing4u",
+    "thumbnail": "https://cdn.thingiverse.com/assets/75/17/5c/49/d8/4.jpg",
+    "bio": "More my designs you will find:\r\nhttps://www.patreon.com/join/kittyscookies",
+    "bio_html": "<div><p>More my designs you will find:<br><a rel=\"nofollow\" href=\"https://www.patreon.com/join/kittyscookies\">https://www.patreon.com/join/kittyscookies</a></p></div>\n",
+    "location": "",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2016-09-07T19:36:07+00:00",
+    "last_active": "2021-05-10T19:08:03+00:00",
+    "cover_image": "https://cdn.thingiverse.com/assets/8a/44/f7/fb/b5/28.jpg",
+    "things_url": "https://api.thingiverse.com/users/printing4u/things",
+    "copies_url": "https://api.thingiverse.com/users/printing4u/copies",
+    "likes_url": "https://api.thingiverse.com/users/printing4u/likes",
+    "printers": [],
+    "programs": [
+      {
+        "id": 24,
+        "name": "123D Design"
+      },
+      {
+        "id": 29,
+        "name": "Inkscape"
+      },
+      {
+        "id": 34,
+        "name": "MeshMixer"
+      },
+      {
+        "id": 42,
+        "name": "Tinkercad"
+      }
+    ],
+    "types": [
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      }
+    ],
+    "skill_level": "Intermediate",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 25,
+        "name": "Engineering",
+        "public_url": "https://www.thingiverse.com/groups/engineering"
+      },
+      {
+        "id": 17,
+        "name": "Prusa i3",
+        "public_url": "https://www.thingiverse.com/groups/prusa-i3"
+      },
+      {
+        "id": 676,
+        "name": "Things With Actual Uses",
+        "public_url": "https://www.thingiverse.com/groups/things-with-actual-uses"
+      },
+      {
+        "id": 236,
+        "name": "Star Wars",
+        "public_url": "https://www.thingiverse.com/groups/star-wars"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 1228,
+        "name": "TinkerCAD",
+        "public_url": "https://www.thingiverse.com/groups/tinkercad"
+      },
+      {
+        "id": 55,
+        "name": "Pokemon",
+        "public_url": "https://www.thingiverse.com/groups/pokemon"
+      },
+      {
+        "id": 87,
+        "name": "Cosplay",
+        "public_url": "https://www.thingiverse.com/groups/cosplay"
+      },
+      {
+        "id": 541,
+        "name": "Voronoi Style",
+        "public_url": "https://www.thingiverse.com/groups/voronoi-style"
+      },
+      {
+        "id": 4278,
+        "name": "Printing girls",
+        "public_url": "https://www.thingiverse.com/groups/printing-girls"
+      }
+    ],
+    "website": "https://www.patreon.com/join/kittyscookies",
+    "twitter": null,
+    "count_of_followers": 25067,
+    "count_of_following": 657296,
+    "count_of_designs": 17,
+    "collection_count": 0,
+    "make_count": 12,
+    "like_count": 3785,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 864382,
+    "name": "rocketpiggames",
+    "first_name": "Rocket Pig",
+    "last_name": "Games",
+    "full_name": "Rocket Pig Games",
+    "url": "https://api.thingiverse.com/users/rocketpiggames",
+    "public_url": "https://www.thingiverse.com/rocketpiggames",
+    "thumbnail": "https://cdn.thingiverse.com/renders/ef/47/24/a3/30/ab89173d4ee0ecf53ee8fbdb41df9684_thumb_medium.jpg",
+    "bio": "<p>You can support and join our Patreon here!</p>\r\n<p><a href=\"https://www.patreon.com/rocketpiggames\"><img src=\"https://i.ibb.co/RCT0Stq/become-a-patron-button.png\" alt=\"\" width=\"217\" height=\"51\" /></a></p>\r\n\r\n\r\nOur ORC TUSKLANDS Kickstarter is now LIVE:\r\nwww.kickstarter.com/projects/rocketpiggames/orc-tusklands\r\n\r\nJoin our MONSTER MINIATURE Patreon:\r\nhttps://www.patreon.com/rocketpiggames\r\n\r\nWe sell professional quality 3d printable terrain and miniatures at:\r\nhttps://www.rocketpiggames.com/store\r\n\r\nFollow us on facebook for updates on our upcoming Kickstarter:\r\nhttps://www.facebook.com/rocketpiggames/\r\n\r\nFollow us on twitter at:\r\nhttps://www.twitter.com/rocketpigtweets",
+    "bio_html": "<div><p>You can support and join our Patreon here!</p>\n<p><a rel=\"nofollow\" href=\"https://www.patreon.com/rocketpiggames\"><img src=\"https://i.ibb.co/RCT0Stq/become-a-patron-button.png\" alt=\"\" width=\"217\" height=\"51\"></a></p>\n<p>Our ORC TUSKLANDS Kickstarter is now LIVE:<br>\nwww.kickstarter.com/projects/rocketpiggames/orc-tusklands</p>\n<p>Join our MONSTER MINIATURE Patreon:<br><a rel=\"nofollow\" href=\"https://www.patreon.com/rocketpiggames\">https://www.patreon.com/rocketpiggames</a></p>\n<p>We sell professional quality 3d printable terrain and miniatures at:<br><a rel=\"nofollow\" href=\"https://www.rocketpiggames.com/store\">https://www.rocketpiggames.com/store</a></p>\n<p>Follow us on facebook for updates on our upcoming Kickstarter:<br><a rel=\"nofollow\" href=\"https://www.facebook.com/rocketpiggames/\">https://www.facebook.com/rocketpiggames/</a></p>\n<p>Follow us on twitter at:<br><a rel=\"nofollow\" href=\"https://www.twitter.com/rocketpigtweets\">https://www.twitter.com/rocketpigtweets</a></p></div>\n",
+    "location": "Vermont",
+    "country": "United States",
+    "industry": "Commercial/Professional",
+    "subindustry": null,
+    "registered": "2016-05-03T23:54:47+00:00",
+    "last_active": "2021-06-19T19:08:32+00:00",
+    "cover_image": "https://cdn.thingiverse.com/assets/c4/0d/1c/0f/c2/HH_AD_THINGI.jpg",
+    "things_url": "https://api.thingiverse.com/users/rocketpiggames/things",
+    "copies_url": "https://api.thingiverse.com/users/rocketpiggames/copies",
+    "likes_url": "https://api.thingiverse.com/users/rocketpiggames/likes",
+    "printers": [
+      {
+        "id": 33928,
+        "name": "Ender 3",
+        "public_url": "<a href=\"https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&keywords=ender+3&qid=1612857257&sr=8-1-spons&psc=1&linkCode=ll1&tag=tv-printerlink-20&linkId=5419ace64a5f58b068a896710257ed13&language=en_US&ref_=as_li_ss_tl\" target=\"_blank\">Ender 3</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 44,
+        "name": "ZBrush"
+      }
+    ],
+    "types": [
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 25,
+        "name": "Engineering",
+        "public_url": "https://www.thingiverse.com/groups/engineering"
+      },
+      {
+        "id": 6495,
+        "name": "Creality Ender 3",
+        "public_url": "https://www.thingiverse.com/groups/ender3"
+      },
+      {
+        "id": 17,
+        "name": "Prusa i3",
+        "public_url": "https://www.thingiverse.com/groups/prusa-i3"
+      },
+      {
+        "id": 676,
+        "name": "Things With Actual Uses",
+        "public_url": "https://www.thingiverse.com/groups/things-with-actual-uses"
+      },
+      {
+        "id": 3217,
+        "name": "Anet A8 Prusa i3",
+        "public_url": "https://www.thingiverse.com/groups/anet-a8-prusa-i3"
+      },
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 3889,
+        "name": "Creality CR-10",
+        "public_url": "https://www.thingiverse.com/groups/creality-cr-10"
+      },
+      {
+        "id": 453,
+        "name": "Warhammer 40K",
+        "public_url": "https://www.thingiverse.com/groups/40k"
+      },
+      {
+        "id": 236,
+        "name": "Star Wars",
+        "public_url": "https://www.thingiverse.com/groups/star-wars"
+      },
+      {
+        "id": 6,
+        "name": "Gamer Makers",
+        "public_url": "https://www.thingiverse.com/groups/gamermakers"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 735,
+        "name": "Simplify3D",
+        "public_url": "https://www.thingiverse.com/groups/simplify3d"
+      },
+      {
+        "id": 4003,
+        "name": "Anycubic i3 Mega",
+        "public_url": "https://www.thingiverse.com/groups/anycubic-i3-mega"
+      },
+      {
+        "id": 2055,
+        "name": "Wanhao Printer Owners",
+        "public_url": "https://www.thingiverse.com/groups/i3"
+      },
+      {
+        "id": 8142,
+        "name": "HackThePandemic",
+        "public_url": "https://www.thingiverse.com/groups/HackThePandemic"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      },
+      {
+        "id": 64,
+        "name": "German Makers",
+        "public_url": "https://www.thingiverse.com/groups/german-makers"
+      },
+      {
+        "id": 134,
+        "name": "Da Vinci Printer Owners",
+        "public_url": "https://www.thingiverse.com/groups/da-vinci"
+      },
+      {
+        "id": 464,
+        "name": "Wargamer makers",
+        "public_url": "https://www.thingiverse.com/groups/wargame"
+      },
+      {
+        "id": 6088,
+        "name": "Dungeons and Dragons",
+        "public_url": "https://www.thingiverse.com/groups/dungeons-and-dragons"
+      },
+      {
+        "id": 10,
+        "name": "SketchUp",
+        "public_url": "https://www.thingiverse.com/groups/sketchup"
+      },
+      {
+        "id": 18,
+        "name": "Flashforge",
+        "public_url": "https://www.thingiverse.com/groups/flashforge"
+      },
+      {
+        "id": 172,
+        "name": "Movie/Game Props and Costumes",
+        "public_url": "https://www.thingiverse.com/groups/movie-game-props-and-costumes"
+      },
+      {
+        "id": 7126,
+        "name": "Creality Ender-5 / Ender-5 PLUS",
+        "public_url": "https://www.thingiverse.com/groups/creality-ender-5"
+      },
+      {
+        "id": 190,
+        "name": "3d Terrain",
+        "public_url": "https://www.thingiverse.com/groups/3d-terrain"
+      },
+      {
+        "id": 3334,
+        "name": "Anet A6",
+        "public_url": "https://www.thingiverse.com/groups/anet-a6"
+      },
+      {
+        "id": 43,
+        "name": "Lego Makers",
+        "public_url": "https://www.thingiverse.com/groups/lego-makers"
+      },
+      {
+        "id": 4177,
+        "name": "Epic 40K",
+        "public_url": "https://www.thingiverse.com/groups/epic-40k"
+      },
+      {
+        "id": 3881,
+        "name": "Anycubic Kossel",
+        "public_url": "https://www.thingiverse.com/groups/anycubic-kossel"
+      },
+      {
+        "id": 6287,
+        "name": "Anycubic Photon",
+        "public_url": "https://www.thingiverse.com/groups/anycubic-photon"
+      },
+      {
+        "id": 6592,
+        "name": "Everything Ender 3",
+        "public_url": "https://www.thingiverse.com/groups/everything-ender-3"
+      },
+      {
+        "id": 751,
+        "name": "Board Games",
+        "public_url": "https://www.thingiverse.com/groups/board-games"
+      },
+      {
+        "id": 2669,
+        "name": "Warhammer Fantasy",
+        "public_url": "https://www.thingiverse.com/groups/warhammer-fantasy"
+      },
+      {
+        "id": 1724,
+        "name": "MARVEL",
+        "public_url": "https://www.thingiverse.com/groups/marvel"
+      },
+      {
+        "id": 3102,
+        "name": "ORIGINAL PRUSA I3 MK2",
+        "public_url": "https://www.thingiverse.com/groups/original-prusa-i3-mk2"
+      },
+      {
+        "id": 4596,
+        "name": "Original Prusa i3 MK3",
+        "public_url": "https://www.thingiverse.com/groups/original-prusa-i3-mk3"
+      },
+      {
+        "id": 1157,
+        "name": "M3D - The Micro 3D Printer",
+        "public_url": "https://www.thingiverse.com/groups/m3d-the-micro-3d-printer"
+      },
+      {
+        "id": 1186,
+        "name": "Star Trek",
+        "public_url": "https://www.thingiverse.com/groups/star-trek"
+      },
+      {
+        "id": 59,
+        "name": "The Legend of Zelda",
+        "public_url": "https://www.thingiverse.com/groups/zeldafanart"
+      },
+      {
+        "id": 724,
+        "name": "Zbrush Artists",
+        "public_url": "https://www.thingiverse.com/groups/zbrush-artists"
+      },
+      {
+        "id": 425,
+        "name": "Model Trains",
+        "public_url": "https://www.thingiverse.com/groups/trains"
+      },
+      {
+        "id": 6640,
+        "name": "Gloomhaven Board Game",
+        "public_url": "https://www.thingiverse.com/groups/gloomhaven-board-game"
+      },
+      {
+        "id": 2464,
+        "name": "mechwarrior and all things mech",
+        "public_url": "https://www.thingiverse.com/groups/mechwarrior"
+      },
+      {
+        "id": 216,
+        "name": "3DHubs",
+        "public_url": "https://www.thingiverse.com/groups/3dhubs"
+      },
+      {
+        "id": 2625,
+        "name": "Low Poly Fantasy Tabletop",
+        "public_url": "https://www.thingiverse.com/groups/lowpoly-fantasy-tabletop"
+      },
+      {
+        "id": 725,
+        "name": "Anime/Cosplay",
+        "public_url": "https://www.thingiverse.com/groups/anime-cosplay"
+      },
+      {
+        "id": 84,
+        "name": "Tabletop Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletop"
+      },
+      {
+        "id": 1002,
+        "name": "Legos",
+        "public_url": "https://www.thingiverse.com/groups/legos"
+      },
+      {
+        "id": 299,
+        "name": "Nerf",
+        "public_url": "https://www.thingiverse.com/groups/nerf"
+      },
+      {
+        "id": 2889,
+        "name": "15mm Miniature Gamers",
+        "public_url": "https://www.thingiverse.com/groups/15mmminiaturegamers"
+      },
+      {
+        "id": 667,
+        "name": "3D Printable Humanoid Robots ",
+        "public_url": "https://www.thingiverse.com/groups/3d-printable-humanoid-robots"
+      },
+      {
+        "id": 7972,
+        "name": "Ender 3 Pro",
+        "public_url": "https://www.thingiverse.com/groups/ender-3-pro"
+      },
+      {
+        "id": 7069,
+        "name": "ELEGOO MARS LCD 3D Printer",
+        "public_url": "https://www.thingiverse.com/groups/mars"
+      },
+      {
+        "id": 441,
+        "name": "Steampunk",
+        "public_url": "https://www.thingiverse.com/groups/steampunk"
+      },
+      {
+        "id": 1763,
+        "name": "Open Board Game",
+        "public_url": "https://www.thingiverse.com/groups/openboardgame"
+      },
+      {
+        "id": 822,
+        "name": "DnD",
+        "public_url": "https://www.thingiverse.com/groups/dnd"
+      },
+      {
+        "id": 1799,
+        "name": "RPG minis",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis"
+      },
+      {
+        "id": 3326,
+        "name": "Prusa i3 Mk2 Mods",
+        "public_url": "https://www.thingiverse.com/groups/prusa-i3-mk2-mods"
+      },
+      {
+        "id": 3388,
+        "name": "80's stuff",
+        "public_url": "https://www.thingiverse.com/groups/80stuff"
+      },
+      {
+        "id": 289,
+        "name": "Simplyfy 3D",
+        "public_url": "https://www.thingiverse.com/groups/simplyfy-3d"
+      },
+      {
+        "id": 6642,
+        "name": "OpenLock Designers",
+        "public_url": "https://www.thingiverse.com/groups/openlock-designers"
+      },
+      {
+        "id": 214,
+        "name": "Formlabs",
+        "public_url": "https://www.thingiverse.com/groups/formlabs"
+      },
+      {
+        "id": 439,
+        "name": "Maker Games",
+        "public_url": "https://www.thingiverse.com/groups/maker-games"
+      },
+      {
+        "id": 4457,
+        "name": "Starfinder RPG",
+        "public_url": "https://www.thingiverse.com/groups/starfinder"
+      },
+      {
+        "id": 2254,
+        "name": "Zoology",
+        "public_url": "https://www.thingiverse.com/groups/zoology"
+      },
+      {
+        "id": 4519,
+        "name": "multi-material prusa mk2",
+        "public_url": "https://www.thingiverse.com/groups/multimaterial-prusa-mk2"
+      },
+      {
+        "id": 1652,
+        "name": "Human Body",
+        "public_url": "https://www.thingiverse.com/groups/human-body"
+      },
+      {
+        "id": 3480,
+        "name": "Heroscape",
+        "public_url": "https://www.thingiverse.com/groups/heroscape"
+      },
+      {
+        "id": 3254,
+        "name": "ART OF 3D PRINTING - PSU 2016",
+        "public_url": "https://www.thingiverse.com/groups/art-of-3d-printing-psu-2016"
+      },
+      {
+        "id": 88,
+        "name": "Wanhao Duplicator",
+        "public_url": "https://www.thingiverse.com/groups/duplicator"
+      },
+      {
+        "id": 789,
+        "name": "Formlabs Form 2 SLA Drucker",
+        "public_url": "https://www.thingiverse.com/groups/davinci-3d-printer"
+      },
+      {
+        "id": 4522,
+        "name": "Prusa MK2S and Multi-Material",
+        "public_url": "https://www.thingiverse.com/groups/prusa-mk2s"
+      },
+      {
+        "id": 149,
+        "name": "Resin3Dprinting",
+        "public_url": "https://www.thingiverse.com/groups/resin3dprinting"
+      },
+      {
+        "id": 4128,
+        "name": "ROCKET PIG GAMES",
+        "public_url": "https://www.thingiverse.com/groups/rocketpiggames"
+      },
+      {
+        "id": 127,
+        "name": "Science Fiction",
+        "public_url": "https://www.thingiverse.com/groups/scifi"
+      },
+      {
+        "id": 458,
+        "name": "Pathfinder",
+        "public_url": "https://www.thingiverse.com/groups/pathfinder"
+      }
+    ],
+    "website": "http://www.rocketpiggames.com",
+    "twitter": null,
+    "count_of_followers": 20021,
+    "count_of_following": 311896,
+    "count_of_designs": 125,
+    "collection_count": 1,
+    "make_count": 0,
+    "like_count": 140,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 19757,
+    "name": "dutchmogul",
+    "first_name": "Arian",
+    "last_name": "Croft",
+    "full_name": "Arian Croft",
+    "url": "https://api.thingiverse.com/users/dutchmogul",
+    "public_url": "https://www.thingiverse.com/dutchmogul",
+    "thumbnail": "https://cdn.thingiverse.com/assets/03/86/a4/e0/99/62327717_2406250489429711_4715082395391361024_n.jpg",
+    "bio": "Freelance designer, creator of [Pocket-Tactics](https://www.thingiverse.com/thing:3834304), and co-founder/lead developer for [Ill Gotten Games](http://www.illgottengames.net/). Find us on \r\n[Facebook](https://www.facebook.com/IllGottenGames/), check out my\r\n[Instagram](http://instagram.com/dutchmogul), and support us on [Patreon](https://www.patreon.com/illgottengames?ty=h) so we can keep making loads of free miniatures!",
+    "bio_html": "<div><p>Freelance designer, creator of <a rel=\"nofollow\" href=\"/thing:3834304\">Pocket-Tactics</a>, and co-founder/lead developer for <a rel=\"nofollow\" href=\"http://www.illgottengames.net/\">Ill Gotten Games</a>. Find us on<br><a rel=\"nofollow\" href=\"https://www.facebook.com/IllGottenGames/\">Facebook</a>, check out my<br><a rel=\"nofollow\" href=\"http://instagram.com/dutchmogul\">Instagram</a>, and support us on <a rel=\"nofollow\" href=\"https://www.patreon.com/illgottengames?ty=h\">Patreon</a> so we can keep making loads of free miniatures!</p></div>\n",
+    "location": "Bellingham, WA",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2012-02-19T20:47:13+00:00",
+    "last_active": "2021-06-21T18:06:12+00:00",
+    "cover_image": "https://cdn.thingiverse.com/assets/c2/58/61/a4/e1/PTBanner1.jpg",
+    "things_url": "https://api.thingiverse.com/users/dutchmogul/things",
+    "copies_url": "https://api.thingiverse.com/users/dutchmogul/copies",
+    "likes_url": "https://api.thingiverse.com/users/dutchmogul/likes",
+    "printers": [
+      {
+        "id": 3,
+        "name": "MakerBot Replicator (5th Generation)",
+        "public_url": "<a href=\"https://www.amazon.com/MakerBot-MP07825EU-Replicator-3D-Printer/dp/B01LZSUQKL?dchild=1&keywords=makerbot&qid=1618268375&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0ZNMjlZVFUwSzdYJmVuY3J5cHRlZElkPUEwNTcyODkzVEM0SlZJS1BVUFlHJmVuY3J5cHRlZEFkSWQ9QTA\" target=\"_blank\">MakerBot Replicator (5th Generation)</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 42,
+        "name": "Tinkercad"
+      },
+      {
+        "id": 39,
+        "name": "Sculptris"
+      },
+      {
+        "id": 34,
+        "name": "MeshMixer"
+      },
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 98,
+        "name": "Microsoft 3D Builder"
+      }
+    ],
+    "types": [
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 453,
+        "name": "Warhammer 40K",
+        "public_url": "https://www.thingiverse.com/groups/40k"
+      },
+      {
+        "id": 236,
+        "name": "Star Wars",
+        "public_url": "https://www.thingiverse.com/groups/star-wars"
+      },
+      {
+        "id": 6,
+        "name": "Gamer Makers",
+        "public_url": "https://www.thingiverse.com/groups/gamermakers"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      },
+      {
+        "id": 464,
+        "name": "Wargamer makers",
+        "public_url": "https://www.thingiverse.com/groups/wargame"
+      },
+      {
+        "id": 6088,
+        "name": "Dungeons and Dragons",
+        "public_url": "https://www.thingiverse.com/groups/dungeons-and-dragons"
+      },
+      {
+        "id": 55,
+        "name": "Pokemon",
+        "public_url": "https://www.thingiverse.com/groups/pokemon"
+      },
+      {
+        "id": 751,
+        "name": "Board Games",
+        "public_url": "https://www.thingiverse.com/groups/board-games"
+      },
+      {
+        "id": 1186,
+        "name": "Star Trek",
+        "public_url": "https://www.thingiverse.com/groups/star-trek"
+      },
+      {
+        "id": 2889,
+        "name": "15mm Miniature Gamers",
+        "public_url": "https://www.thingiverse.com/groups/15mmminiaturegamers"
+      },
+      {
+        "id": 449,
+        "name": "Replicator 2X Users",
+        "public_url": "https://www.thingiverse.com/groups/rep2x"
+      }
+    ],
+    "website": "https://www.patreon.com/illgottengames",
+    "twitter": {
+      "account_name": "Dutchmogul",
+      "account_url": "http://twitter.com/Dutchmogul"
+    },
+    "count_of_followers": 29920,
+    "count_of_following": 302,
+    "count_of_designs": 1094,
+    "collection_count": 48,
+    "make_count": 207,
+    "like_count": 5731,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 928,
+    "name": "MakerBot",
+    "first_name": "MakerBot",
+    "last_name": "",
+    "full_name": "MakerBot",
+    "url": "https://api.thingiverse.com/users/MakerBot",
+    "public_url": "https://www.thingiverse.com/MakerBot",
+    "thumbnail": "https://cdn.thingiverse.com/renders/74/2d/76/2d/09/Avatar_MB_02_thumb_medium.jpg",
+    "bio": "We make the most reliable and easy to use 3D printers available. We also run Thingiverse, and love to share our designs. MakerBot is here to support the 3D printing community and help everyone take their designs from inspiration to innovation.",
+    "bio_html": "<div><p>We make the most reliable and easy to use 3D printers available. We also run Thingiverse, and love to share our designs. MakerBot is here to support the 3D printing community and help everyone take their designs from inspiration to innovation.</p></div>\n",
+    "location": "Brooklyn, NY",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2009-08-19T15:45:32+00:00",
+    "last_active": "2021-06-22T15:56:45+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/93/fe/ba/38/a7/d2b5ca33bd970f64a6301fa75ae2eb22_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/MakerBot/things",
+    "copies_url": "https://api.thingiverse.com/users/MakerBot/copies",
+    "likes_url": "https://api.thingiverse.com/users/MakerBot/likes",
+    "printers": [
+      {
+        "id": 19087,
+        "name": "MakerBot Replicator+",
+        "public_url": "MakerBot Replicator+"
+      }
+    ],
+    "programs": [],
+    "types": [
+      {
+        "id": 7,
+        "name": "Maker"
+      }
+    ],
+    "skill_level": "0",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 30,
+        "name": "Classroom 3D",
+        "public_url": "https://www.thingiverse.com/groups/classroom-3d"
+      },
+      {
+        "id": 4618,
+        "name": "MakerBot Labs",
+        "public_url": "https://www.thingiverse.com/groups/makerbot-labs"
+      },
+      {
+        "id": 2012,
+        "name": "Our School Needs a 3D Printer!",
+        "public_url": "https://www.thingiverse.com/groups/needaprinter"
+      }
+    ],
+    "website": "http://makerbot.com",
+    "twitter": null,
+    "count_of_followers": 18155,
+    "count_of_following": 37,
+    "count_of_designs": 528,
+    "collection_count": 33,
+    "make_count": 11,
+    "like_count": 209,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": true,
+    "is_following": false
+  },
+  {
+    "id": 1775342,
+    "name": "COLOR3DJP",
+    "first_name": "Yosuke",
+    "last_name": "Nakamura",
+    "full_name": "Yosuke Nakamura",
+    "url": "https://api.thingiverse.com/users/COLOR3DJP",
+    "public_url": "https://www.thingiverse.com/COLOR3DJP",
+    "thumbnail": "https://cdn.thingiverse.com/assets/57/23/d7/33/f6/avatar.png",
+    "bio": "Commercial use is strictly prohibited! Other than that, have fun with designs!\r\n\r\nIncidentally, jump in the community for the latest work!\r\nhttp://www.patreon.com/color3d",
+    "bio_html": "<div><p>Commercial use is strictly prohibited! Other than that, have fun with designs!</p>\n<p>Incidentally, jump in the community for the latest work!<br><a rel=\"nofollow\" href=\"http://www.patreon.com/color3d\">http://www.patreon.com/color3d</a></p></div>\n",
+    "location": "Japan",
+    "country": "Japan",
+    "industry": null,
+    "subindustry": null,
+    "registered": "2017-11-20T05:37:17+00:00",
+    "last_active": "2021-06-22T17:24:59+00:00",
+    "cover_image": "https://cdn.thingiverse.com/site/img/default/cover/cover-3_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/COLOR3DJP/things",
+    "copies_url": "https://api.thingiverse.com/users/COLOR3DJP/copies",
+    "likes_url": "https://api.thingiverse.com/users/COLOR3DJP/likes",
+    "printers": [],
+    "programs": [
+      {
+        "id": 44,
+        "name": "ZBrush"
+      }
+    ],
+    "types": [],
+    "skill_level": "0",
+    "accepts_tips": true,
+    "groups": [],
+    "website": "",
+    "twitter": null,
+    "count_of_followers": 16726,
+    "count_of_following": 0,
+    "count_of_designs": 253,
+    "collection_count": 0,
+    "make_count": 0,
+    "like_count": 0,
+    "has_favorite": false,
+    "favorite_count": 0,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 8844,
+    "name": "emmett",
+    "first_name": "Emmett",
+    "last_name": "Lalish",
+    "full_name": "Emmett Lalish",
+    "url": "https://api.thingiverse.com/users/emmett",
+    "public_url": "https://www.thingiverse.com/emmett",
+    "thumbnail": "https://cdn.thingiverse.com/renders/12/36/7c/69/8a/B1_display_large_thumb_medium.jpg",
+    "bio": "I'm an aerospace engineer working at Google on [<model-viewer\\>](https://googlewebcomponents.github.io/model-viewer/). I previously worked at a 3D video [startup](https://www.omnivor.io/) and at Microsoft on [3MF](http://www.3mf.io) and [3D Builder and 3D print drivers](https://msdn.microsoft.com/en-us/windows/hardware/bg183398). 3D design is my hobby, and that's how I got started. All my designs are available for free under a CC-BY-SA license, so all I ask is attribution. My doctorate is in control theory, and if you're interested, you can find all my research publications and dissertation [here](http://www.aa.washington.edu/research/ndcl/publications.html).",
+    "bio_html": "<div><p>I'm an aerospace engineer working at Google on <a rel=\"nofollow\" href=\"https://googlewebcomponents.github.io/model-viewer/\">&lt;model-viewer&gt;</a>. I previously worked at a 3D video <a rel=\"nofollow\" href=\"https://www.omnivor.io/\">startup</a> and at Microsoft on <a rel=\"nofollow\" href=\"http://www.3mf.io\">3MF</a> and <a rel=\"nofollow\" href=\"https://msdn.microsoft.com/en-us/windows/hardware/bg183398\">3D Builder and 3D print drivers</a>. 3D design is my hobby, and that's how I got started. All my designs are available for free under a CC-BY-SA license, so all I ask is attribution. My doctorate is in control theory, and if you're interested, you can find all my research publications and dissertation <a rel=\"nofollow\" href=\"http://www.aa.washington.edu/research/ndcl/publications.html\">here</a>.</p></div>\n",
+    "location": "Seattle",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2011-01-25T11:59:14+00:00",
+    "last_active": "2021-06-02T17:13:30+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/d7/c8/1a/26/30/777banner_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/emmett/things",
+    "copies_url": "https://api.thingiverse.com/users/emmett/copies",
+    "likes_url": "https://api.thingiverse.com/users/emmett/likes",
+    "printers": [
+      {
+        "id": 1,
+        "name": "MakerBot Replicator",
+        "public_url": "<a href=\"https://www.amazon.com/MakerBot-MP07825EU-Replicator-3D-Printer/dp/B01LZSUQKL?dchild=1&keywords=makerbot&qid=1618268375&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0ZNMjlZVFUwSzdYJmVuY3J5cHRlZElkPUEwNTcyODkzVEM0SlZJS1BVUFlHJmVuY3J5cHRlZEFkSWQ9QTA\" target=\"_blank\">MakerBot Replicator</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      }
+    ],
+    "types": [
+      {
+        "id": 11,
+        "name": "Engineer"
+      },
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 25,
+        "name": "Engineering",
+        "public_url": "https://www.thingiverse.com/groups/engineering"
+      },
+      {
+        "id": 2,
+        "name": "OpenSCAD",
+        "public_url": "https://www.thingiverse.com/groups/openscad"
+      },
+      {
+        "id": 30,
+        "name": "Classroom 3D",
+        "public_url": "https://www.thingiverse.com/groups/classroom-3d"
+      }
+    ],
+    "website": "https://elalish.blogspot.com/",
+    "twitter": {
+      "account_name": "EmmettLalish",
+      "account_url": "http://twitter.com/EmmettLalish"
+    },
+    "count_of_followers": 16520,
+    "count_of_following": 11,
+    "count_of_designs": 74,
+    "collection_count": 3,
+    "make_count": 44,
+    "like_count": 304,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 43344,
+    "name": "mathgrrl",
+    "first_name": "Laura",
+    "last_name": "Taalman",
+    "full_name": "Laura Taalman",
+    "url": "https://api.thingiverse.com/users/mathgrrl",
+    "public_url": "https://www.thingiverse.com/mathgrrl",
+    "thumbnail": "https://cdn.thingiverse.com/renders/68/09/cd/99/4f/5816b2969b4c4ac851a7a426963a801f_thumb_medium.jpg",
+    "bio": "math geek and defender of the universe\r\nalso professor, mathematician, blogger, designer/maker, hack\r\n\r\n[mathgrrl Designs](http://www.mathgrrl.com/designs) - Free downloads and custom print orders\r\n[Hacktastic](http://www.mathgrrl.com/hacktastic) - Technical blog about design, math, and failure\r\n\r\nYou can also find my work at https://www.prusaprinters.org/social/23902-mathgrrl/prints\r\n",
+    "bio_html": "<div><p>math geek and defender of the universe<br>\nalso professor, mathematician, blogger, designer/maker, hack</p>\n<p><a rel=\"nofollow\" href=\"http://www.mathgrrl.com/designs\">mathgrrl Designs</a> - Free downloads and custom print orders<br><a rel=\"nofollow\" href=\"http://www.mathgrrl.com/hacktastic\">Hacktastic</a> - Technical blog about design, math, and failure</p>\n<p>You can also find my work at <a rel=\"nofollow\" href=\"https://www.prusaprinters.org/social/23902-mathgrrl/prints\">https://www.prusaprinters.org/social/23902-mathgrrl/prints</a></p></div>\n",
+    "location": "Harrisonburg, Virginia",
+    "country": null,
+    "industry": "Education",
+    "subindustry": null,
+    "registered": "2013-01-25T23:55:15+00:00",
+    "last_active": "2021-06-07T13:55:31+00:00",
+    "cover_image": "https://cdn.thingiverse.com/assets/3d/2e/bc/32/e9/perko_closeup.jpg",
+    "things_url": "https://api.thingiverse.com/users/mathgrrl/things",
+    "copies_url": "https://api.thingiverse.com/users/mathgrrl/copies",
+    "likes_url": "https://api.thingiverse.com/users/mathgrrl/likes",
+    "printers": [
+      {
+        "id": 12409,
+        "name": "Replicator 2, Ultimaker 2, Fabrikator Mini, Afinia H-Series",
+        "public_url": "Replicator 2, Ultimaker 2, Fabrikator Mini, Afinia H-Series"
+      }
+    ],
+    "programs": [
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      },
+      {
+        "id": 31,
+        "name": "Mathematica"
+      },
+      {
+        "id": 27,
+        "name": "Thingiverse Customizer"
+      },
+      {
+        "id": 33,
+        "name": "MeshLab"
+      },
+      {
+        "id": 42,
+        "name": "Tinkercad"
+      },
+      {
+        "id": 43,
+        "name": "TopMod"
+      }
+    ],
+    "types": [
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 9,
+        "name": "Teacher"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 2,
+        "name": "OpenSCAD",
+        "public_url": "https://www.thingiverse.com/groups/openscad"
+      },
+      {
+        "id": 1228,
+        "name": "TinkerCAD",
+        "public_url": "https://www.thingiverse.com/groups/tinkercad"
+      },
+      {
+        "id": 30,
+        "name": "Classroom 3D",
+        "public_url": "https://www.thingiverse.com/groups/classroom-3d"
+      },
+      {
+        "id": 374,
+        "name": "Mathematica",
+        "public_url": "https://www.thingiverse.com/groups/mathematica"
+      },
+      {
+        "id": 90,
+        "name": "Ultimaker Owners",
+        "public_url": "https://www.thingiverse.com/groups/ultimaker-owners"
+      },
+      {
+        "id": 947,
+        "name": "3D Printers in Libraries",
+        "public_url": "https://www.thingiverse.com/groups/3d-printers-in-libraries"
+      },
+      {
+        "id": 124,
+        "name": "MineCraft",
+        "public_url": "https://www.thingiverse.com/groups/minecraft"
+      },
+      {
+        "id": 2012,
+        "name": "Our School Needs a 3D Printer!",
+        "public_url": "https://www.thingiverse.com/groups/needaprinter"
+      },
+      {
+        "id": 16,
+        "name": "FAIL",
+        "public_url": "https://www.thingiverse.com/groups/fail"
+      },
+      {
+        "id": 2013,
+        "name": "Thingiversity STEAM Challenges",
+        "public_url": "https://www.thingiverse.com/groups/steam"
+      },
+      {
+        "id": 2119,
+        "name": "3DforEdu",
+        "public_url": "https://www.thingiverse.com/groups/3d-for-edu"
+      },
+      {
+        "id": 2214,
+        "name": "EDU Power Users",
+        "public_url": "https://www.thingiverse.com/groups/edu-power-users"
+      },
+      {
+        "id": 12,
+        "name": "Groups Feedback",
+        "public_url": "https://www.thingiverse.com/groups/groups-feedback"
+      },
+      {
+        "id": 2199,
+        "name": "National Hispanic Heritage Month",
+        "public_url": "https://www.thingiverse.com/groups/hispanic-heritage"
+      },
+      {
+        "id": 109,
+        "name": "K12 Student Designs",
+        "public_url": "https://www.thingiverse.com/groups/k12-student-designs"
+      },
+      {
+        "id": 2141,
+        "name": "Thingiversity",
+        "public_url": "https://www.thingiverse.com/groups/thingiversity"
+      },
+      {
+        "id": 2044,
+        "name": "PrintShop",
+        "public_url": "https://www.thingiverse.com/groups/printshop"
+      },
+      {
+        "id": 2198,
+        "name": "Jumpstart",
+        "public_url": "https://www.thingiverse.com/groups/jumpstart"
+      },
+      {
+        "id": 2140,
+        "name": "Faculty Lounge",
+        "public_url": "https://www.thingiverse.com/groups/faculty-lounge"
+      },
+      {
+        "id": 2139,
+        "name": "Education",
+        "public_url": "https://www.thingiverse.com/groups/education"
+      },
+      {
+        "id": 2047,
+        "name": "thingiverse messaging",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse-messaging"
+      }
+    ],
+    "website": "http://www.mathgrrl.com",
+    "twitter": {
+      "account_name": "mathgrrl",
+      "account_url": "http://twitter.com/mathgrrl"
+    },
+    "count_of_followers": 15855,
+    "count_of_following": 90,
+    "count_of_designs": 232,
+    "collection_count": 30,
+    "make_count": 314,
+    "like_count": 735,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 2391766,
+    "name": "M3DM",
+    "first_name": "Mia",
+    "last_name": "Kay",
+    "full_name": "Mia Kay",
+    "url": "https://api.thingiverse.com/users/M3DM",
+    "public_url": "https://www.thingiverse.com/M3DM",
+    "thumbnail": "https://cdn.thingiverse.com/renders/57/a1/c3/e5/62/f25267e9d6c0e801399298f1f7e118cc_thumb_medium.jpg",
+    "bio": "**CLOSED ACCOUNT as of JANUARY 24, 2021**\r\n\r\nUnfortunately most of my designs come up as 404 now. I have been contacting Thingiverse for months with no response. I can't remove the error 404 designs and I can't re-upload them. Because of this I sadly will no longer be uploading here :( I will be moving to MyMiniFactory. https://www.myminifactory.com/users/M3DM\r\n\r\n\r\nYou can still get access to all of my files for $5/month on Patreon.\r\nGain access to 300+ models and help me continue to release them to the community by supporting me on Patreon.\r\n<a rel=\"nofollow\" href=\"https://www.patreon.com/m3dm\"><img src=\"https://c5.patreon.com/external/logo/become_a_patron_button.png\" alt=\"image\"></a>\r\n\r\n\r\n\r\n\r\n\r\n",
+    "bio_html": "<div><p><strong>CLOSED ACCOUNT as of JANUARY 24, 2021</strong></p>\n<p>Unfortunately most of my designs come up as 404 now. I have been contacting Thingiverse for months with no response. I can't remove the error 404 designs and I can't re-upload them. Because of this I sadly will no longer be uploading here :( I will be moving to MyMiniFactory. <a rel=\"nofollow\" href=\"https://www.myminifactory.com/users/M3DM\">https://www.myminifactory.com/users/M3DM</a></p>\n<p>You can still get access to all of my files for $5/month on Patreon.<br>\nGain access to 300+ models and help me continue to release them to the community by supporting me on Patreon.<br><a rel=\"nofollow\" href=\"https://www.patreon.com/m3dm\"><img src=\"https://c5.patreon.com/external/logo/become_a_patron_button.png\" alt=\"image\"></a></p></div>\n",
+    "location": "California",
+    "country": "United States",
+    "industry": "Commercial/Professional",
+    "subindustry": null,
+    "registered": "2018-11-04T17:24:22+00:00",
+    "last_active": "2021-05-23T05:33:51+00:00",
+    "cover_image": "https://cdn.thingiverse.com/site/img/default/cover/cover-9_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/M3DM/things",
+    "copies_url": "https://api.thingiverse.com/users/M3DM/copies",
+    "likes_url": "https://api.thingiverse.com/users/M3DM/likes",
+    "printers": [
+      {
+        "id": 32210,
+        "name": "Anycubic Photon",
+        "public_url": "<a href=\"https://www.amazon.com/ANYCUBIC-Photocuring-Monochrome-Off-line-Printing/dp/B08Q394GQ1?dchild=1&keywords=photon&qid=1617126624&sr=8-3&linkCode=ll1&tag=tv-printerlink-20&linkId=bf56b1e55751634fd84c577f300c3e86&language=en_US&ref_=as_li_ss_tl\" target=\"_blank\">Anycubic Photon</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 44,
+        "name": "ZBrush"
+      },
+      {
+        "id": 34,
+        "name": "MeshMixer"
+      }
+    ],
+    "types": [
+      {
+        "id": 11,
+        "name": "Engineer"
+      },
+      {
+        "id": 2,
+        "name": "Artist"
+      }
+    ],
+    "skill_level": "Intermediate",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 6,
+        "name": "Gamer Makers",
+        "public_url": "https://www.thingiverse.com/groups/gamermakers"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      },
+      {
+        "id": 6088,
+        "name": "Dungeons and Dragons",
+        "public_url": "https://www.thingiverse.com/groups/dungeons-and-dragons"
+      },
+      {
+        "id": 84,
+        "name": "Tabletop Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletop"
+      },
+      {
+        "id": 822,
+        "name": "DnD",
+        "public_url": "https://www.thingiverse.com/groups/dnd"
+      }
+    ],
+    "website": "http://www.patreon.com/m3dm",
+    "twitter": null,
+    "count_of_followers": 16961,
+    "count_of_following": 11,
+    "count_of_designs": 241,
+    "collection_count": 1,
+    "make_count": 95,
+    "like_count": 32,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 325497,
+    "name": "mz4250",
+    "first_name": "Miguel",
+    "last_name": "Zavala",
+    "full_name": "Miguel Zavala",
+    "url": "https://api.thingiverse.com/users/mz4250",
+    "public_url": "https://www.thingiverse.com/mz4250",
+    "thumbnail": "https://cdn.thingiverse.com/renders/7f/80/a3/0a/5e/Manly1_thumb_medium.jpg",
+    "bio": "Hello guys. I'm a massive Dungeons & Dragons fan who loves to share his fanart here so fellow gamers can customize their games as much as I do. Years ago WOTC requested I don't post their intellectual property here but were ok with posting my works on Shapeways, so you can find the rest of my works here:\r\n\r\n https://www.shapeways.com/designer/mz4250\r\n\r\nYou gotta log in first before you see the \"download product\" button on each mini's page. Thankfully its all free. \r\n\r\nRegardless of this, as you can see I still have hundreds of models here ready for your download and enjoyment. My Patreon is here if you'd like to support my efforts.\r\n\r\nhttps://www.patreon.com/mz4250\r\n\r\n I offer my patrons access to a Google Drive with all my files, a Commercial Friendly Drive if they want to sell prints of my models, a request board, and much more. If you'd like to support my efforts as I make free models for the world you're welcome to sign up :-)\r\n\r\n\r\nEnjoy and happy printing! \r\n\r\n<a href=\"https://www.patreon.com/bePatron?u=8932665\" data-patreon-widget-type=\"become-patron-button\">Become a Patron!</a><script async src=\"https://c6.patreon.com/becomePatronButton.bundle.js\"></script>\r\n\r\nLinks to all my stl sources and other media: https://linktr.ee/mz4250\r\n",
+    "bio_html": "<div><p>Hello guys. I'm a massive Dungeons &amp; Dragons fan who loves to share his fanart here so fellow gamers can customize their games as much as I do. Years ago WOTC requested I don't post their intellectual property here but were ok with posting my works on Shapeways, so you can find the rest of my works here:</p>\n<p><a rel=\"nofollow\" href=\"https://www.shapeways.com/designer/mz4250\">https://www.shapeways.com/designer/mz4250</a></p>\n<p>You gotta log in first before you see the \"download product\" button on each mini's page. Thankfully its all free. </p>\n<p>Regardless of this, as you can see I still have hundreds of models here ready for your download and enjoyment. My Patreon is here if you'd like to support my efforts.</p>\n<p><a rel=\"nofollow\" href=\"https://www.patreon.com/mz4250\">https://www.patreon.com/mz4250</a></p>\n<p>I offer my patrons access to a Google Drive with all my files, a Commercial Friendly Drive if they want to sell prints of my models, a request board, and much more. If you'd like to support my efforts as I make free models for the world you're welcome to sign up :-)</p>\n<p>Enjoy and happy printing! </p>\n<p><a rel=\"nofollow\" href=\"https://www.patreon.com/bePatron?u=8932665\">Become a Patron!</a></p>\n<p>Links to all my stl sources and other media: <a rel=\"nofollow\" href=\"https://linktr.ee/mz4250\">https://linktr.ee/mz4250</a></p></div>\n",
+    "location": "",
+    "country": null,
+    "industry": "Maker/Consumer",
+    "subindustry": null,
+    "registered": "2014-10-17T12:25:24+00:00",
+    "last_active": "2021-06-18T18:11:21+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/8a/1e/7f/05/ab/dice2_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/mz4250/things",
+    "copies_url": "https://api.thingiverse.com/users/mz4250/copies",
+    "likes_url": "https://api.thingiverse.com/users/mz4250/likes",
+    "printers": [
+      {
+        "id": 33,
+        "name": "Simple Black",
+        "public_url": "<a href=\"http://amzn.to/2DqOqq1\" target=\"_blank\">Simple Black</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 26,
+        "name": "Blender"
+      }
+    ],
+    "types": [
+      {
+        "id": 2,
+        "name": "Artist"
+      },
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      }
+    ],
+    "skill_level": "Intermediate",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      }
+    ],
+    "website": "https://www.patreon.com/mz4250",
+    "twitter": {
+      "account_name": "mz4250",
+      "account_url": "http://twitter.com/mz4250"
+    },
+    "count_of_followers": 18222,
+    "count_of_following": 78,
+    "count_of_designs": 584,
+    "collection_count": 1,
+    "make_count": 14,
+    "like_count": 380,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 47139,
+    "name": "devonjones",
+    "first_name": "Devon",
+    "last_name": "Jones",
+    "full_name": "Devon Jones",
+    "url": "https://api.thingiverse.com/users/devonjones",
+    "public_url": "https://www.thingiverse.com/devonjones",
+    "thumbnail": "https://cdn.thingiverse.com/renders/3f/26/83/b4/98/profile_thumb_medium.jpg",
+    "bio": "",
+    "bio_html": "<div></div>\n",
+    "location": "Denver, CO",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2013-02-10T20:40:15+00:00",
+    "last_active": "2021-06-03T16:29:58+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/39/77/8c/de/fb/mountainside_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/devonjones/things",
+    "copies_url": "https://api.thingiverse.com/users/devonjones/copies",
+    "likes_url": "https://api.thingiverse.com/users/devonjones/likes",
+    "printers": [
+      {
+        "id": 713,
+        "name": "Prusa Mendel",
+        "public_url": "Prusa Mendel"
+      }
+    ],
+    "programs": [
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 27,
+        "name": "Thingiverse Customizer"
+      },
+      {
+        "id": 29,
+        "name": "Inkscape"
+      },
+      {
+        "id": 33,
+        "name": "MeshLab"
+      },
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      }
+    ],
+    "types": [
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 11,
+        "name": "Engineer"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 6,
+        "name": "Gamer Makers",
+        "public_url": "https://www.thingiverse.com/groups/gamermakers"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 2,
+        "name": "OpenSCAD",
+        "public_url": "https://www.thingiverse.com/groups/openscad"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      },
+      {
+        "id": 3,
+        "name": "Blender 3D",
+        "public_url": "https://www.thingiverse.com/groups/blender3d"
+      },
+      {
+        "id": 3073,
+        "name": "Tronxy ",
+        "public_url": "https://www.thingiverse.com/groups/tronxy"
+      },
+      {
+        "id": 3403,
+        "name": "The DM's Craft",
+        "public_url": "https://www.thingiverse.com/groups/the-dms-craft"
+      },
+      {
+        "id": 6642,
+        "name": "OpenLock Designers",
+        "public_url": "https://www.thingiverse.com/groups/openlock-designers"
+      },
+      {
+        "id": 1029,
+        "name": "Monocle and Cigar Tabletop",
+        "public_url": "https://www.thingiverse.com/groups/monocle-and-cigar-style-tabletop"
+      }
+    ],
+    "website": "http://masterwork-tools.com",
+    "twitter": null,
+    "count_of_followers": 16903,
+    "count_of_following": 269,
+    "count_of_designs": 456,
+    "collection_count": 70,
+    "make_count": 20,
+    "like_count": 2613,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 215464,
+    "name": "RobotMama",
+    "first_name": "Anika",
+    "last_name": "Uhlemann",
+    "full_name": "Anika Uhlemann",
+    "url": "https://api.thingiverse.com/users/RobotMama",
+    "public_url": "https://www.thingiverse.com/RobotMama",
+    "thumbnail": "https://cdn.thingiverse.com/renders/d6/70/50/c4/02/676ab776eae564ed8f3be59b01f9fdf5_thumb_medium.jpg",
+    "bio": "<font size=\"14\" align=\u201ecenter\u201c face=\"Antenna\">RobotMama</font>\r\n<font size=\"10\" face=\"Antenna\">Passionate Maker, Blogger, Creative Problem Solver, Software Engineer\r\nLanguages/Sprachen: German/Deutsch & English/Englisch </font>\r\n\r\n---------------------------------------------------------------------------------------------------------------------------------------------------------\r\nJoin our Thingiverse Group for 3D-Print-on-Fabric, Fashion, Sewing and the like https://www.thingiverse.com/groups/sew-easy\r\n\r\nI love to see my designs come to life, so go on and add a make and show me what you made of it!!!!!\r\n\r\n\r\n<u>Find me on</u>\r\n\r\n<b> Instagram: </b> https://www.instagram.com/robotmamahh/\r\n<b> Facebook: </b> https://www.facebook.com/RobotMama3D\r\n<b> YouTube: </b> https://www.youtube.com/channel/UCL1F4vDU29dCd_ZCZ6eRhiw\r\n<b> Sew Easy Group: </b> https://www.thingiverse.com/groups/sew-easy\r\n<b> Twitter: </b> https://twitter.com/DratoLesandar\r\n<b> Pinterest: </b> https://www.pinterest.de/robotmamahh/",
+    "bio_html": "<div><p><span style=\"font-family: Antenna;\">RobotMama</span><br><span style=\"font-family: Antenna;\">Passionate Maker, Blogger, Creative Problem Solver, Software Engineer<br>\nLanguages/Sprachen: German/Deutsch &amp; English/Englisch </span></p>\n<hr><p>Join our Thingiverse Group for 3D-Print-on-Fabric, Fashion, Sewing and the like <a rel=\"nofollow\" href=\"/groups/sew-easy\">https://www.thingiverse.com/groups/sew-easy</a></p>\n<p>I love to see my designs come to life, so go on and add a make and show me what you made of it!!!!!</p>\n<p><span style=\"text-decoration: underline;\">Find me on</span></p>\n<p><b> Instagram: </b> <a rel=\"nofollow\" href=\"https://www.instagram.com/robotmamahh/\">https://www.instagram.com/robotmamahh/</a><br><b> Facebook: </b> <a rel=\"nofollow\" href=\"https://www.facebook.com/RobotMama3D\">https://www.facebook.com/RobotMama3D</a><br><b> YouTube: </b> <a rel=\"nofollow\" href=\"https://www.youtube.com/channel/UCL1F4vDU29dCd_ZCZ6eRhiw\">https://www.youtube.com/channel/UCL1F4vDU29dCd_ZCZ6eRhiw</a><br><b> Sew Easy Group: </b> <a rel=\"nofollow\" href=\"/groups/sew-easy\">https://www.thingiverse.com/groups/sew-easy</a><br><b> Twitter: </b> <a rel=\"nofollow\" href=\"https://twitter.com/DratoLesandar\">https://twitter.com/DratoLesandar</a><br><b> Pinterest: </b> <a rel=\"nofollow\" href=\"https://www.pinterest.de/robotmamahh/\">https://www.pinterest.de/robotmamahh/</a></p></div>\n",
+    "location": "Germany",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2014-04-25T01:14:40+00:00",
+    "last_active": "2021-06-21T16:54:21+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/63/80/8f/d7/09/e8c3ad2bbb7325a39a147f6945b8dcfa_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/RobotMama/things",
+    "copies_url": "https://api.thingiverse.com/users/RobotMama/copies",
+    "likes_url": "https://api.thingiverse.com/users/RobotMama/likes",
+    "printers": [
+      {
+        "id": 26473,
+        "name": "Ultimaker 2 +",
+        "public_url": "Ultimaker 2 +"
+      },
+      {
+        "id": 19612,
+        "name": "Formlabs Form2",
+        "public_url": "Formlabs Form2"
+      },
+      {
+        "id": 21736,
+        "name": "Creality CR-10",
+        "public_url": "Creality CR-10"
+      }
+    ],
+    "programs": [
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      },
+      {
+        "id": 29,
+        "name": "Inkscape"
+      },
+      {
+        "id": 27,
+        "name": "Thingiverse Customizer"
+      },
+      {
+        "id": 72,
+        "name": "Cinema 4d"
+      },
+      {
+        "id": 36,
+        "name": "Photoshop"
+      },
+      {
+        "id": 33,
+        "name": "MeshLab"
+      },
+      {
+        "id": 26,
+        "name": "Blender"
+      },
+      {
+        "id": 5597,
+        "name": "nTopology"
+      },
+      {
+        "id": 46,
+        "name": "FreeCAD"
+      },
+      {
+        "id": 429,
+        "name": "reconstructme"
+      }
+    ],
+    "types": [
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 11,
+        "name": "Engineer"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 676,
+        "name": "Things With Actual Uses",
+        "public_url": "https://www.thingiverse.com/groups/things-with-actual-uses"
+      },
+      {
+        "id": 173,
+        "name": "Arduino",
+        "public_url": "https://www.thingiverse.com/groups/arduino"
+      },
+      {
+        "id": 154,
+        "name": "Table Top Gamers",
+        "public_url": "https://www.thingiverse.com/groups/tabletopgamers"
+      },
+      {
+        "id": 6,
+        "name": "Gamer Makers",
+        "public_url": "https://www.thingiverse.com/groups/gamermakers"
+      },
+      {
+        "id": 2483,
+        "name": "Thingiverse",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse"
+      },
+      {
+        "id": 2,
+        "name": "OpenSCAD",
+        "public_url": "https://www.thingiverse.com/groups/openscad"
+      },
+      {
+        "id": 44,
+        "name": "RPG Minis Makers",
+        "public_url": "https://www.thingiverse.com/groups/rpg-minis-makers"
+      },
+      {
+        "id": 93,
+        "name": "Robots",
+        "public_url": "https://www.thingiverse.com/groups/robots"
+      },
+      {
+        "id": 64,
+        "name": "German Makers",
+        "public_url": "https://www.thingiverse.com/groups/german-makers"
+      },
+      {
+        "id": 102,
+        "name": "CNC",
+        "public_url": "https://www.thingiverse.com/groups/cnc"
+      },
+      {
+        "id": 416,
+        "name": "Calibration!",
+        "public_url": "https://www.thingiverse.com/groups/calibration"
+      },
+      {
+        "id": 172,
+        "name": "Movie/Game Props and Costumes",
+        "public_url": "https://www.thingiverse.com/groups/movie-game-props-and-costumes"
+      },
+      {
+        "id": 30,
+        "name": "Classroom 3D",
+        "public_url": "https://www.thingiverse.com/groups/classroom-3d"
+      },
+      {
+        "id": 130,
+        "name": "Electronics",
+        "public_url": "https://www.thingiverse.com/groups/electronics"
+      },
+      {
+        "id": 913,
+        "name": "GoPro ",
+        "public_url": "https://www.thingiverse.com/groups/gopro"
+      },
+      {
+        "id": 744,
+        "name": "Adafruit",
+        "public_url": "https://www.thingiverse.com/groups/adafruit"
+      },
+      {
+        "id": 2073,
+        "name": "Things with LEDS",
+        "public_url": "https://www.thingiverse.com/groups/things-with-leds"
+      },
+      {
+        "id": 26,
+        "name": "3D Capture",
+        "public_url": "https://www.thingiverse.com/groups/3d-capture"
+      },
+      {
+        "id": 190,
+        "name": "3d Terrain",
+        "public_url": "https://www.thingiverse.com/groups/3d-terrain"
+      },
+      {
+        "id": 43,
+        "name": "Lego Makers",
+        "public_url": "https://www.thingiverse.com/groups/lego-makers"
+      },
+      {
+        "id": 534,
+        "name": "Ikea Hack",
+        "public_url": "https://www.thingiverse.com/groups/ikea-hack"
+      },
+      {
+        "id": 70,
+        "name": "3D Printed Photography",
+        "public_url": "https://www.thingiverse.com/groups/3dp-photo"
+      },
+      {
+        "id": 252,
+        "name": "DIY",
+        "public_url": "https://www.thingiverse.com/groups/diy"
+      },
+      {
+        "id": 927,
+        "name": "Multi-Filament Prints",
+        "public_url": "https://www.thingiverse.com/groups/multi-input-prints"
+      },
+      {
+        "id": 34,
+        "name": "printrbot Simple Metal Users",
+        "public_url": "https://www.thingiverse.com/groups/printrbot-simple-metal-users"
+      },
+      {
+        "id": 2426,
+        "name": "Scale Models /  Maquetas / H0 &+",
+        "public_url": "https://www.thingiverse.com/groups/scalemodels"
+      },
+      {
+        "id": 90,
+        "name": "Ultimaker Owners",
+        "public_url": "https://www.thingiverse.com/groups/ultimaker-owners"
+      },
+      {
+        "id": 216,
+        "name": "3DHubs",
+        "public_url": "https://www.thingiverse.com/groups/3dhubs"
+      },
+      {
+        "id": 3888,
+        "name": "Sew easy!",
+        "public_url": "https://www.thingiverse.com/groups/sew-easy"
+      },
+      {
+        "id": 2930,
+        "name": "The Settlers of Catan",
+        "public_url": "https://www.thingiverse.com/groups/catan"
+      },
+      {
+        "id": 2609,
+        "name": "DIY Holiday Decoration and Props",
+        "public_url": "https://www.thingiverse.com/groups/diy-christmas"
+      },
+      {
+        "id": 1002,
+        "name": "Legos",
+        "public_url": "https://www.thingiverse.com/groups/legos"
+      },
+      {
+        "id": 1914,
+        "name": "Microstructures",
+        "public_url": "https://www.thingiverse.com/groups/microstructures"
+      },
+      {
+        "id": 667,
+        "name": "3D Printable Humanoid Robots ",
+        "public_url": "https://www.thingiverse.com/groups/3d-printable-humanoid-robots"
+      },
+      {
+        "id": 1880,
+        "name": "3D-Druck-Community",
+        "public_url": "https://www.thingiverse.com/groups/3d-druck-community"
+      },
+      {
+        "id": 441,
+        "name": "Steampunk",
+        "public_url": "https://www.thingiverse.com/groups/steampunk"
+      },
+      {
+        "id": 2007,
+        "name": "InMoov Robotics",
+        "public_url": "https://www.thingiverse.com/groups/inmoov-robotics"
+      },
+      {
+        "id": 986,
+        "name": "Musical Instruments",
+        "public_url": "https://www.thingiverse.com/groups/musical-instruments"
+      },
+      {
+        "id": 2723,
+        "name": "Assistive Technology ",
+        "public_url": "https://www.thingiverse.com/groups/assistive-technology"
+      },
+      {
+        "id": 65,
+        "name": "Filament",
+        "public_url": "https://www.thingiverse.com/groups/filament"
+      },
+      {
+        "id": 665,
+        "name": "DJI Inspire (3D Printable Quad)",
+        "public_url": "https://www.thingiverse.com/groups/dji-inspire-3d-printable-quad"
+      },
+      {
+        "id": 549,
+        "name": "Deutschland",
+        "public_url": "https://www.thingiverse.com/groups/deutschland"
+      },
+      {
+        "id": 762,
+        "name": "Thingiverse Customizers",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse-customizers"
+      },
+      {
+        "id": 2210,
+        "name": "Electronics Workbench",
+        "public_url": "https://www.thingiverse.com/groups/electronics-workbench"
+      },
+      {
+        "id": 3054,
+        "name": "Helpful Things For Special Needs",
+        "public_url": "https://www.thingiverse.com/groups/helpful-things-for-special-needs"
+      },
+      {
+        "id": 75,
+        "name": "Ultimaker 2",
+        "public_url": "https://www.thingiverse.com/groups/ultimaker-2"
+      },
+      {
+        "id": 72,
+        "name": "OpenDollHouse",
+        "public_url": "https://www.thingiverse.com/groups/opendollhouse"
+      },
+      {
+        "id": 971,
+        "name": "Cookie Cutters",
+        "public_url": "https://www.thingiverse.com/groups/cookie-cutters"
+      },
+      {
+        "id": 3080,
+        "name": "DIY Bio Laboratory",
+        "public_url": "https://www.thingiverse.com/groups/diy-bio-laboratory"
+      },
+      {
+        "id": 182,
+        "name": "Plant Pots",
+        "public_url": "https://www.thingiverse.com/groups/plant-pots"
+      },
+      {
+        "id": 799,
+        "name": "3D Printer DIY",
+        "public_url": "https://www.thingiverse.com/groups/3d-printer-diy"
+      },
+      {
+        "id": 214,
+        "name": "Formlabs",
+        "public_url": "https://www.thingiverse.com/groups/formlabs"
+      },
+      {
+        "id": 987,
+        "name": "your soul in the kitchen",
+        "public_url": "https://www.thingiverse.com/groups/kitchen"
+      },
+      {
+        "id": 2512,
+        "name": "Christmas Items",
+        "public_url": "https://www.thingiverse.com/groups/christmas-items"
+      },
+      {
+        "id": 2466,
+        "name": "SCALEPRINT",
+        "public_url": "https://www.thingiverse.com/groups/scaleprint"
+      },
+      {
+        "id": 844,
+        "name": "USEFUL MODELS",
+        "public_url": "https://www.thingiverse.com/groups/useful"
+      },
+      {
+        "id": 242,
+        "name": "Ultimaker2",
+        "public_url": "https://www.thingiverse.com/groups/ultimaker2"
+      },
+      {
+        "id": 794,
+        "name": "Arduino stuff",
+        "public_url": "https://www.thingiverse.com/groups/arduino-stuff"
+      },
+      {
+        "id": 2475,
+        "name": "Thingiverse support",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse-support"
+      },
+      {
+        "id": 890,
+        "name": "RC Hobby Models Land Sea Air",
+        "public_url": "https://www.thingiverse.com/groups/rchobbymodels"
+      },
+      {
+        "id": 41,
+        "name": "Furniture",
+        "public_url": "https://www.thingiverse.com/groups/furniture"
+      },
+      {
+        "id": 584,
+        "name": "Low Poly Objectives",
+        "public_url": "https://www.thingiverse.com/groups/low-poly-objection"
+      },
+      {
+        "id": 540,
+        "name": "Crystallography",
+        "public_url": "https://www.thingiverse.com/groups/crystallography"
+      },
+      {
+        "id": 1179,
+        "name": "EZ Kitchen",
+        "public_url": "https://www.thingiverse.com/groups/ez-kitchen"
+      },
+      {
+        "id": 1609,
+        "name": "Action Figures",
+        "public_url": "https://www.thingiverse.com/groups/action-figures"
+      },
+      {
+        "id": 2588,
+        "name": "johnny five toy robot group",
+        "public_url": "https://www.thingiverse.com/groups/johnny-five-toy-robots"
+      },
+      {
+        "id": 1172,
+        "name": "Cinema4D Makers",
+        "public_url": "https://www.thingiverse.com/groups/cinema4d-makers"
+      },
+      {
+        "id": 2932,
+        "name": "Aluminium PLA Casting",
+        "public_url": "https://www.thingiverse.com/groups/aluminium-pla-casting"
+      },
+      {
+        "id": 1652,
+        "name": "Human Body",
+        "public_url": "https://www.thingiverse.com/groups/human-body"
+      },
+      {
+        "id": 426,
+        "name": "Soft Robotics",
+        "public_url": "https://www.thingiverse.com/groups/soft-robotics"
+      },
+      {
+        "id": 750,
+        "name": "Dollhouses, Dolls and Miniatures",
+        "public_url": "https://www.thingiverse.com/groups/dollhouses"
+      },
+      {
+        "id": 608,
+        "name": "Construction & Building Systems",
+        "public_url": "https://www.thingiverse.com/groups/construction"
+      },
+      {
+        "id": 645,
+        "name": "Print Household",
+        "public_url": "https://www.thingiverse.com/groups/print-household"
+      },
+      {
+        "id": 628,
+        "name": "Lighting",
+        "public_url": "https://www.thingiverse.com/groups/lighting"
+      },
+      {
+        "id": 488,
+        "name": "Toolmoon 3D LAMP",
+        "public_url": "https://www.thingiverse.com/groups/toolmoon"
+      },
+      {
+        "id": 12,
+        "name": "Groups Feedback",
+        "public_url": "https://www.thingiverse.com/groups/groups-feedback"
+      },
+      {
+        "id": 1216,
+        "name": "Office",
+        "public_url": "https://www.thingiverse.com/groups/office"
+      },
+      {
+        "id": 2325,
+        "name": "Halloween",
+        "public_url": "https://www.thingiverse.com/groups/halloween"
+      },
+      {
+        "id": 2421,
+        "name": "Household Designs",
+        "public_url": "https://www.thingiverse.com/groups/household-designs"
+      },
+      {
+        "id": 1178,
+        "name": "EZ Bath",
+        "public_url": "https://www.thingiverse.com/groups/ez-bath"
+      },
+      {
+        "id": 2299,
+        "name": "THINGIVERSE MEMBERS ADVISORY",
+        "public_url": "https://www.thingiverse.com/groups/thingiverse-members-advisory"
+      },
+      {
+        "id": 3280,
+        "name": "Household Lighting",
+        "public_url": "https://www.thingiverse.com/groups/house-hold-lighting"
+      },
+      {
+        "id": 3172,
+        "name": "Sculptures",
+        "public_url": "https://www.thingiverse.com/groups/sculptures"
+      },
+      {
+        "id": 2220,
+        "name": "sports",
+        "public_url": "https://www.thingiverse.com/groups/sports"
+      }
+    ],
+    "website": "https://www.robotmama.de",
+    "twitter": {
+      "account_name": "DratoLesandar",
+      "account_url": "http://twitter.com/DratoLesandar"
+    },
+    "count_of_followers": 18378,
+    "count_of_following": 148,
+    "count_of_designs": 36,
+    "collection_count": 39,
+    "make_count": 91,
+    "like_count": 7576,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": true
+  },
+  {
+    "id": 1659,
+    "name": "MakerBlock",
+    "first_name": "MakerBlock",
+    "last_name": "",
+    "full_name": "MakerBlock",
+    "url": "https://api.thingiverse.com/users/MakerBlock",
+    "public_url": "https://www.thingiverse.com/MakerBlock",
+    "thumbnail": "https://cdn.thingiverse.com/renders/79/0d/e4/54/d6/makerblock-avatar_thumb_medium.jpg",
+    "bio": "Breakin' stuff.  Makin' stuff.\r\n\r\nI've set a high required price for my models because Thingiverse won't allow access to these things.  If you want one of these models, just let me know.  :)\r\n\r\nAlso, trying to import my stuff to PrusaPrinters.org ;) \r\nhttps://www.prusaprinters.org/social/34150/prints",
+    "bio_html": "<div><p>Breakin' stuff.  Makin' stuff.</p>\n<p>I've set a high required price for my models because Thingiverse won't allow access to these things.  If you want one of these models, just let me know.  :)</p>\n<p>Also, trying to import my stuff to PrusaPrinters.org ;)<br><a rel=\"nofollow\" href=\"https://www.prusaprinters.org/social/34150/prints\">https://www.prusaprinters.org/social/34150/prints</a></p></div>\n",
+    "location": "http://www.makerblock.com",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2010-01-02T14:54:35+00:00",
+    "last_active": "2021-03-31T18:16:13+00:00",
+    "cover_image": "https://cdn.thingiverse.com/site/img/default/cover/cover-4_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/MakerBlock/things",
+    "copies_url": "https://api.thingiverse.com/users/MakerBlock/copies",
+    "likes_url": "https://api.thingiverse.com/users/MakerBlock/likes",
+    "printers": [
+      {
+        "id": 8,
+        "name": "MakerBot Replicator Dual",
+        "public_url": "MakerBot Replicator Dual"
+      },
+      {
+        "id": 25040,
+        "name": "Monoprice Mini Delta",
+        "public_url": "Monoprice Mini Delta"
+      }
+    ],
+    "programs": [
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      }
+    ],
+    "types": [],
+    "skill_level": "Advanced",
+    "accepts_tips": false,
+    "groups": [],
+    "website": "http://makerblock.com",
+    "twitter": {
+      "account_name": "MakerBlock",
+      "account_url": "http://twitter.com/MakerBlock"
+    },
+    "count_of_followers": 13473,
+    "count_of_following": 44,
+    "count_of_designs": 210,
+    "collection_count": 84,
+    "make_count": 22,
+    "like_count": 722,
+    "has_favorite": true,
+    "favorite_count": 4,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 262922,
+    "name": "TanyaAkinora",
+    "first_name": "Tetiana",
+    "last_name": "Bulgakova",
+    "full_name": "Tetiana Bulgakova",
+    "url": "https://api.thingiverse.com/users/TanyaAkinora",
+    "public_url": "https://www.thingiverse.com/TanyaAkinora",
+    "thumbnail": "https://cdn.thingiverse.com/renders/72/09/b6/1b/11/_1_11_22_thumb_medium.jpg",
+    "bio": "One of my hobbies is 3D printing. My work covers various areas of engineering to the decorative. All my models were created in  Autodesk 123D Design and Fusion 360.\r\nI like to create beautiful and functional things with the help of 3D printing and also to make a unique gift for my relatives and friends.\r\n\r\nhttps://www.airiona.com/\r\nhttps://www.instagram.com/tanyaakinora/\r\nhttps://www.fiverr.com/tanyaakinora?up_rollout=true\r\nhttps://www.youtube.com/channel/UC7jCGcc4rrkCvuKuNUt2FUA\r\nhttps://www.prusaprinters.org/social/52698-tanyaakinora/prints\r\n\r\n\r\n",
+    "bio_html": "<div><p>One of my hobbies is 3D printing. My work covers various areas of engineering to the decorative. All my models were created in  Autodesk 123D Design and Fusion 360.<br>\nI like to create beautiful and functional things with the help of 3D printing and also to make a unique gift for my relatives and friends.</p>\n<p><a rel=\"nofollow\" href=\"https://www.airiona.com/\">https://www.airiona.com/</a><br><a rel=\"nofollow\" href=\"https://www.instagram.com/tanyaakinora/\">https://www.instagram.com/tanyaakinora/</a><br><a rel=\"nofollow\" href=\"https://www.fiverr.com/tanyaakinora?up_rollout=true\">https://www.fiverr.com/tanyaakinora?up_rollout=true</a><br><a rel=\"nofollow\" href=\"https://www.youtube.com/channel/UC7jCGcc4rrkCvuKuNUt2FUA\">https://www.youtube.com/channel/UC7jCGcc4rrkCvuKuNUt2FUA</a><br><a rel=\"nofollow\" href=\"https://www.prusaprinters.org/social/52698-tanyaakinora/prints\">https://www.prusaprinters.org/social/52698-tanyaakinora/prints</a></p></div>\n",
+    "location": "Ukraine, Kharkiv",
+    "country": null,
+    "industry": "Maker/Consumer",
+    "subindustry": null,
+    "registered": "2014-07-18T13:45:14+00:00",
+    "last_active": "2021-06-22T17:23:58+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/08/eb/46/d7/84/dove_small_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/TanyaAkinora/things",
+    "copies_url": "https://api.thingiverse.com/users/TanyaAkinora/copies",
+    "likes_url": "https://api.thingiverse.com/users/TanyaAkinora/likes",
+    "printers": [
+      {
+        "id": 14639,
+        "name": "Anet A8 ",
+        "public_url": "<a href=\"https://www.amazon.com/Anet-All-Metal-Over-Current-Protection-Adjustable/dp/B07MVVNXH4?dchild=1&keywords=anet+a8&qid=1617126821&sr=8-3&linkCode=ll1&tag=tv-printerlink-20&linkId=adfa4220a84aebbe28a924ecffdbb745&language=en_US&ref_=as_li_ss_tl\" target=\"_blank\">Anet A8 </a>"
+      },
+      {
+        "id": 37539,
+        "name": "A8",
+        "public_url": "<a href=\"https://www.amazon.com/Anet-All-Metal-Over-Current-Protection-Adjustable/dp/B07MVVNXH4?dchild=1&keywords=anet+a8&qid=1617126821&sr=8-3&linkCode=ll1&tag=tv-printerlink-20&linkId=adfa4220a84aebbe28a924ecffdbb745&language=en_US&ref_=as_li_ss_tl\" target=\"_blank\">A8</a>"
+      }
+    ],
+    "programs": [
+      {
+        "id": 24,
+        "name": "123D Design"
+      },
+      {
+        "id": 58,
+        "name": "Fusion 360"
+      }
+    ],
+    "types": [
+      {
+        "id": 7,
+        "name": "Maker"
+      },
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 11,
+        "name": "Engineer"
+      }
+    ],
+    "skill_level": "Advanced",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 39,
+        "name": "123D Design",
+        "public_url": "https://www.thingiverse.com/groups/123d-design"
+      },
+      {
+        "id": 6544,
+        "name": "MakerBot Certification",
+        "public_url": "https://www.thingiverse.com/groups/makerbot-certification"
+      }
+    ],
+    "website": "https://www.facebook.com/akinora13/",
+    "twitter": {
+      "account_name": "tatyana196575",
+      "account_url": "http://twitter.com/tatyana196575"
+    },
+    "count_of_followers": 14557,
+    "count_of_following": 83,
+    "count_of_designs": 166,
+    "collection_count": 7,
+    "make_count": 14,
+    "like_count": 890,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 64994,
+    "name": "WeeksB",
+    "first_name": "Bethany",
+    "last_name": "Weeks",
+    "full_name": "Bethany Weeks",
+    "url": "https://api.thingiverse.com/users/WeeksB",
+    "public_url": "https://www.thingiverse.com/WeeksB",
+    "thumbnail": "https://cdn.thingiverse.com/renders/a4/e8/6f/b2/5c/ProfileLogo_thumb_medium.jpg",
+    "bio": "3D (Solid & Surface) Modeler, Additive Manufacturing Enthusiast, and Engineer",
+    "bio_html": "<div><p>3D (Solid &amp; Surface) Modeler, Additive Manufacturing Enthusiast, and Engineer</p></div>\n",
+    "location": "Seattle",
+    "country": null,
+    "industry": null,
+    "subindustry": null,
+    "registered": "2013-04-14T19:31:25+00:00",
+    "last_active": "2021-04-28T20:14:23+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/f8/43/a5/8d/ba/KineticFlashlight_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/WeeksB/things",
+    "copies_url": "https://api.thingiverse.com/users/WeeksB/copies",
+    "likes_url": "https://api.thingiverse.com/users/WeeksB/likes",
+    "printers": [
+      {
+        "id": 9026,
+        "name": "Flashforge Creator & Fortus 450mc",
+        "public_url": "Flashforge Creator & Fortus 450mc"
+      }
+    ],
+    "programs": [
+      {
+        "id": 34,
+        "name": "MeshMixer"
+      },
+      {
+        "id": 30,
+        "name": "Inventor"
+      },
+      {
+        "id": 38,
+        "name": "Rhino"
+      },
+      {
+        "id": 41,
+        "name": "Solidworks"
+      },
+      {
+        "id": 39,
+        "name": "Sculptris"
+      }
+    ],
+    "types": [
+      {
+        "id": 4,
+        "name": "Designer"
+      },
+      {
+        "id": 11,
+        "name": "Engineer"
+      }
+    ],
+    "skill_level": "Intermediate",
+    "accepts_tips": false,
+    "groups": [],
+    "website": "",
+    "twitter": {
+      "account_name": "BethanyWeeks",
+      "account_url": "http://twitter.com/BethanyWeeks"
+    },
+    "count_of_followers": 14432,
+    "count_of_following": 22,
+    "count_of_designs": 80,
+    "collection_count": 2,
+    "make_count": 4,
+    "like_count": 63,
+    "has_favorite": true,
+    "favorite_count": 6,
+    "is_admin": false,
+    "is_following": false
+  },
+  {
+    "id": 14952,
+    "name": "pmoews",
+    "first_name": "Paul",
+    "last_name": "Moews",
+    "full_name": "Paul Moews",
+    "url": "https://api.thingiverse.com/users/pmoews",
+    "public_url": "https://www.thingiverse.com/pmoews",
+    "thumbnail": "https://cdn.thingiverse.com/renders/c7/91/24/cc/b5/penny_display_large_thumb_medium.jpg",
+    "bio": "Retired scientist\r\nprotein crystallographer",
+    "bio_html": "<div><p>Retired scientist<br>\nprotein crystallographer</p></div>\n",
+    "location": "California",
+    "country": null,
+    "industry": "Education",
+    "subindustry": null,
+    "registered": "2011-10-06T11:42:32+00:00",
+    "last_active": "2021-06-21T00:48:40+00:00",
+    "cover_image": "https://cdn.thingiverse.com/renders/c3/9b/b3/5d/71/patagonia_preview_large.jpg",
+    "things_url": "https://api.thingiverse.com/users/pmoews/things",
+    "copies_url": "https://api.thingiverse.com/users/pmoews/copies",
+    "likes_url": "https://api.thingiverse.com/users/pmoews/likes",
+    "printers": [
+      {
+        "id": 1,
+        "name": "MakerBot Replicator",
+        "public_url": "<a href=\"https://www.amazon.com/MakerBot-MP07825EU-Replicator-3D-Printer/dp/B01LZSUQKL?dchild=1&keywords=makerbot&qid=1618268375&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0ZNMjlZVFUwSzdYJmVuY3J5cHRlZElkPUEwNTcyODkzVEM0SlZJS1BVUFlHJmVuY3J5cHRlZEFkSWQ9QTA\" target=\"_blank\">MakerBot Replicator</a>"
+      },
+      {
+        "id": 19087,
+        "name": "MakerBot Replicator+",
+        "public_url": "MakerBot Replicator+"
+      }
+    ],
+    "programs": [
+      {
+        "id": 35,
+        "name": "OpenSCAD"
+      },
+      {
+        "id": 36,
+        "name": "Photoshop"
+      },
+      {
+        "id": 23,
+        "name": "123D Catch"
+      },
+      {
+        "id": 33,
+        "name": "MeshLab"
+      }
+    ],
+    "types": [],
+    "skill_level": "0",
+    "accepts_tips": true,
+    "groups": [
+      {
+        "id": 2,
+        "name": "OpenSCAD",
+        "public_url": "https://www.thingiverse.com/groups/openscad"
+      },
+      {
+        "id": 540,
+        "name": "Crystallography",
+        "public_url": "https://www.thingiverse.com/groups/crystallography"
+      }
+    ],
+    "website": "",
+    "twitter": null,
+    "count_of_followers": 13938,
+    "count_of_following": 0,
+    "count_of_designs": 543,
+    "collection_count": 1,
+    "make_count": 9,
+    "like_count": 9,
+    "has_favorite": false,
+    "favorite_count": 0,
+    "is_admin": false,
+    "is_following": false
+  }
+]
