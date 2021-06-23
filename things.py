@@ -4,6 +4,7 @@ import json
 
 class ThingsSpider(scrapy.Spider):
     name = 'things'
+    all_things = []
 
     def start_requests(self):
         headers = {"Authorization": "Bearer 56edfc79ecf25922b98202dd79a291aa"}
@@ -19,13 +20,8 @@ class ThingsSpider(scrapy.Spider):
         # print(response.body)
         # print("--------------")
         parsed_data = json.loads(response.text)
-        writefile = open('things/things.json', 'a')
-        # json.dump("[]",writefile)
-        # with open("things/things.json") as readfile:
-        #     previous_data = json.load(readfile)
-        # if (previous_data):
-        #     hits = {**previous_data, **parsed_data}
-        #     json.dump(hits, writefile)
-        #     print("Boo!")
-        # else:
-        json.dump(parsed_data, writefile)
+        self.all_things.append(parsed_data)
+        writefile = open('things/things.json', 'w')
+
+        json.dump(self.all_things, writefile)
+        writefile.close()
