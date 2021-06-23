@@ -1,5 +1,6 @@
 import mysql.connector
 import json
+import csv
 
 db = mysql.connector.connect(
   host="localhost",
@@ -101,7 +102,7 @@ cursor = db.cursor()
 #         cursor.execute(sql, val)
 #         print(cursor.rowcount, "record inserted.")
 # db.commit()
-# print("-------------------------------")
+# print("user_homepage-------------------------------")
 #
 #
 # #groups
@@ -116,7 +117,7 @@ cursor = db.cursor()
 #         cursor.execute(sql, val)
 #         print(cursor.rowcount, "record inserted.")
 # db.commit()
-# print("-------------------------------")
+# print("user_details-------------------------------")
 #
 # #designs
 # with open('../designs.json') as f:
@@ -128,6 +129,7 @@ cursor = db.cursor()
 #     cursor.execute(sql, val)
 #     print(cursor.rowcount, "record inserted.")
 # db.commit()
+# print("designs-------------------------------")
 #
 #
 # #design_details
@@ -144,7 +146,7 @@ cursor = db.cursor()
 #     cursor.execute(sql, val)
 #     print(cursor.rowcount, "record inserted.")
 # db.commit()
-# print("moo-------------------------------")
+# print("thing_details-------------------------------")
 #
 # #tags
 # with open('../designs.json') as f:
@@ -159,7 +161,19 @@ cursor = db.cursor()
 # db.commit()
 # print("tags-------------------------------")
 #
-#
+# #tcategories
+# with open('../catagories.json') as f:
+#     categories = json.load(f)
+# for catagory in categories:
+#       sql = "INSERT INTO categories (category_id, design_id, name, count, slug)" \
+#             " VALUES  (%s,%s,%s,%s,%s);"
+#       val = (catagory["id"], catagory["design_id"], catagory["name"], catagory["count"], catagory["slug"])
+#       cursor.execute(sql, val)
+#       print(cursor.rowcount, "record inserted.")
+# db.commit()
+# print("categories-------------------------------")
+# #
+# #
 # with open('../root_comment.json') as f:
 #     comments = json.load(f)
 # for comment in comments:
@@ -206,8 +220,8 @@ cursor = db.cursor()
 #         print(cursor.rowcount, "record inserted.")
 # db.commit()
 # print("remix_from-------------------------------")
-
-#remix_to
+#
+# #remix_to
 # with open('../remixto.json') as f:
 #     remixes = json.load(f)
 # for  remix in remixes:
@@ -218,3 +232,37 @@ cursor = db.cursor()
 #     print(cursor.rowcount, "record inserted.")
 # db.commit()
 # print("remix_from-------------------------------")
+
+# makes
+# with open('../copies.json') as f:
+#     makes = json.load(f)
+# for make in makes:
+#     sql = "INSERT INTO makes(make_id, source_thing_id, made_by_id, made_by_name, title, description, datePosted, numOfLikes, numOfComments)" \
+#           " VALUES  (%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+#     if make["maker"] and make["thing"]:
+#         val = (make["id"],make["thing"]["id"], make["maker"]["id"], make["maker"]["name"], make["thing"]["name"],
+#                make["description"], make["added"], make["like_count"], make["comment_count"])
+#         cursor.execute(sql, val)
+#         print(cursor.rowcount, "record inserted.")
+#     else:
+#         val = (make["id"], None, None, None, None,
+#                make["description"], make["added"], make["like_count"], make["comment_count"])
+#         cursor.execute(sql, val)
+#         print(cursor.rowcount, "record inserted.")
+# db.commit()
+# print("makes-------------------------------")
+
+with open('../make_details.csv', newline='') as csvfile:
+    make_details = csv.DictReader(csvfile)
+    for  make in make_details:
+        sql = "INSERT INTO make_details(make_id,numOfShares, numOfViews, category, printerBrand" \
+              ",printer, rafts, supports, resolution, infill, filament, sourceLikes, sourceCollects, sourceComments)" \
+              " VALUES  (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+        val = (make["make_id"], make["shares"], make["views"], make["category"], make["printerBrand"],make["printer"],
+                 make["rafts"], make["support"], make["resoulution"], make["infill"], make["filament"],
+                 make["sourceLikes"], make["sourceCollects"], make["sourceComments"])
+        cursor.execute(sql, val)
+        print(cursor.rowcount, "record inserted.")
+db.commit()
+
+print("make_details-------------------------------")
