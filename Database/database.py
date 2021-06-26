@@ -15,9 +15,10 @@ cursor = db.cursor()
 # with open('../users.json') as f:
 #     users = json.load(f)
 # for user in users["hits"]:
-#     sql = "INSERT INTO user_homepage (user_id,username ,firstName,lastName,numOfFollowers ,numOfFollowing,numOfDesigns)"\
-#           " VALUES  (%s,%s,%s,%s,%s,%s,%s);"
-#     val = (user["id"],user["name"],user["first_name"],user["last_name"],user["count_of_followers"],user["count_of_following"],user["count_of_designs"])
+#     sql = "INSERT INTO user_homepage (user_id,username ,firstName,lastName,numOfFollowers ,numOfFollowing,numOfDesigns, url)"\
+#           " VALUES  (%s,%s,%s,%s,%s,%s,%s,%s);"
+#     val = (user["id"],user["name"],user["first_name"],user["last_name"],user["count_of_followers"],user["count_of_following"],user["count_of_designs"],
+#     user["public_url"])
 #     # print(val)
 #     cursor.execute(sql, val)
 #     print(cursor.rowcount, "record inserted.")
@@ -44,13 +45,13 @@ cursor = db.cursor()
 #     users = json.load(f)
 # for user in users:
 #     if (user["twitter"]):
-#         sql = "INSERT INTO social_media_channels (user_id, website, twitter_account_name, twitter_url)" \
+#         sql = "INSERT INTO user_social_media_channels (user_id, website, twitter_account_name, twitter_url)" \
 #               " VALUES  (%s,%s,%s,%s);"
 #         val = (user["id"],user["website"],user["twitter"]["account_name"], user["twitter"]["account_url"])
 #         cursor.execute(sql, val)
 #         print(cursor.rowcount, "record inserted.")
 #     else:
-#         sql = "INSERT INTO social_media_channels (user_id, website, twitter_account_name, twitter_url)" \
+#         sql = "INSERT INTO user_social_media_channels (user_id, website, twitter_account_name, twitter_url)" \
 #               " VALUES  (%s,%s,%s,%s);"
 #         val = (user["id"], user["website"], None, None)
 #         cursor.execute(sql, val)
@@ -66,7 +67,7 @@ cursor = db.cursor()
 # for user in users:
 #     usre_id = user["id"]
 #     for type in (user["types"]):
-#         sql = "INSERT INTO status (status_id, user_id, statusName)" \
+#         sql = "INSERT INTO user_status (status_id, user_id, statusName)" \
 #               " VALUES  (%s,%s,%s);"
 #         val = (type["id"],user["id"],type["name"])
 #         cursor.execute(sql, val)
@@ -81,7 +82,7 @@ cursor = db.cursor()
 # for user in users:
 #     usre_id = user["id"]
 #     for printer in (user["printers"]):
-#         sql = "INSERT INTO printers (printer_id, user_id, printerName, printerUrl)" \
+#         sql = "INSERT INTO user_printers (printer_id, user_id, printerName, printerUrl)" \
 #               " VALUES  (%s,%s,%s,%s);"
 #         val = (printer["id"],user["id"],printer["name"], printer["public_url"])
 #         cursor.execute(sql, val)
@@ -96,7 +97,7 @@ cursor = db.cursor()
 # for user in users:
 #     usre_id = user["id"]
 #     for program in (user["programs"]):
-#         sql = "INSERT INTO programs (program_id, user_id, programName)" \
+#         sql = "INSERT INTO user_programs (program_id, user_id, programName)" \
 #               " VALUES  (%s,%s,%s);"
 #         val = (program["id"],user["id"],program["name"])
 #         cursor.execute(sql, val)
@@ -111,7 +112,7 @@ cursor = db.cursor()
 # for user in users:
 #     usre_id = user["id"]
 #     for group in (user["groups"]):
-#         sql = "INSERT INTO group_names (group_id, user_id, groupName, groupUrl)" \
+#         sql = "INSERT INTO user_group_names (group_id, user_id, groupName, groupUrl)" \
 #               " VALUES  (%s,%s,%s,%s);"
 #         val = (group["id"],user["id"],group["name"], group["public_url"])
 #         cursor.execute(sql, val)
@@ -233,24 +234,24 @@ cursor = db.cursor()
 # db.commit()
 # print("remix_from-------------------------------")
 
-# makes
-# with open('../copies.json') as f:
-#     makes = json.load(f)
-# for make in makes:
-#     sql = "INSERT INTO makes(make_id, source_thing_id, made_by_id, made_by_name, title, description, datePosted, numOfLikes, numOfComments)" \
-#           " VALUES  (%s,%s,%s,%s,%s,%s,%s,%s,%s);"
-#     if make["maker"] and make["thing"]:
-#         val = (make["id"],make["thing"]["id"], make["maker"]["id"], make["maker"]["name"], make["thing"]["name"],
-#                make["description"], make["added"], make["like_count"], make["comment_count"])
-#         cursor.execute(sql, val)
-#         print(cursor.rowcount, "record inserted.")
-#     else:
-#         val = (make["id"], None, None, None, None,
-#                make["description"], make["added"], make["like_count"], make["comment_count"])
-#         cursor.execute(sql, val)
-#         print(cursor.rowcount, "record inserted.")
-# db.commit()
-# print("makes-------------------------------")
+#makes
+with open('../copies.json') as f:
+    makes = json.load(f)
+for make in makes:
+    sql = "INSERT INTO makes(make_id, source_thing_id, made_by_id, made_by_name, title, description, datePosted, numOfLikes, numOfComments)" \
+          " VALUES  (%s,%s,%s,%s,%s,%s,%s,%s,%s);"
+    if make["maker"] and make["thing"]:
+        val = (make["id"],make["thing"]["id"], make["maker"]["id"], make["maker"]["name"], make["thing"]["name"],
+               make["description"], make["added"], make["like_count"], make["comment_count"])
+        cursor.execute(sql, val)
+        print(cursor.rowcount, "record inserted.")
+    else:
+        val = (make["id"], None, None, None, None,
+               make["description"], make["added"], make["like_count"], make["comment_count"])
+        cursor.execute(sql, val)
+        print(cursor.rowcount, "record inserted.")
+db.commit()
+print("makes-------------------------------")
 
 with open('../make_details.csv', newline='') as csvfile:
     make_details = csv.DictReader(csvfile)
