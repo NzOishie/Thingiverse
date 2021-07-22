@@ -31,22 +31,26 @@ class DesignsSpider(scrapy.Spider):
         # page = response.request.cb_kwargs["i"]
         # username = response.request.cb_kwargs["username"]
         print(page,username)
-        parsed_data = json.loads(response.text)
-        print(count, len(parsed_data["hits"]))
-
-        if len(parsed_data["hits"]) == 0:
-            stop[username] = True
+        if response.getcode() == 404:
+            # Do whatever you want if 404 is found
+            print ("404 Found!")
         else:
-            writefile = open(f'designs/designs-{username}-{page}.json', 'w')
-            # readfile = open('designs.json','r')
-            # content = readfile.read()
-            # hits = parsed_data["hits"]
-            # if content:
-            #     previous_data = json.loads(content)
-            #     hits = [*previous_data, *hits]
-            json.dump(parsed_data["hits"], writefile)
-            writefile.close()
-        count = count + 1
+            parsed_data = json.loads(response.text)
+            print(count, len(parsed_data["hits"]))
+
+            if len(parsed_data["hits"]) == 0:
+                stop[username] = True
+            else:
+                writefile = open(f'designs/designs-{username}-{page}.json', 'w')
+                # readfile = open('designs.json','r')
+                # content = readfile.read()
+                # hits = parsed_data["hits"]
+                # if content:
+                #     previous_data = json.loads(content)
+                #     hits = [*previous_data, *hits]
+                json.dump(parsed_data["hits"], writefile)
+                writefile.close()
+            count = count + 1
 
 
 
