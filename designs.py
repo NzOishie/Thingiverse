@@ -31,7 +31,7 @@ class DesignsSpider(scrapy.Spider):
         # page = response.request.cb_kwargs["i"]
         # username = response.request.cb_kwargs["username"]
         print(page,username)
-        if response.getcode() == 404:
+        if response.status() == 404:
             # Do whatever you want if 404 is found
             print ("404 Found!")
         else:
