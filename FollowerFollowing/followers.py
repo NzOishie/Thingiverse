@@ -25,12 +25,14 @@ class FollowersSpider(scrapy.Spider):
                 i = i + 1
 
     def parse(self, response, page, user_id):
-            followers =  response.css('div.user-about>div:not([class*="user-fullname"])')
-            count = 0
-            # username = username.strip("\n                ")
-            follower = followers[0]
+        parsed_data = json.loads(response.text)
+
+        if len(parsed_data) == 0:
+            stop[user_id] = True
+        else:
+            followers = response.css('a.user-header::attr(href)')
             for follower in followers:
-                username = follower.css("div::text").extract_first()
-                if count% 2 == 0:
-                    print(count, username)
-                count = count + 1
+                follower = follower.strip("/")
+                print(follower)
+                print("---------------------------")
+

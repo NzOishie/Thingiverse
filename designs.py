@@ -15,7 +15,7 @@ class DesignsSpider(scrapy.Spider):
         headers = {"Authorization": "Bearer 56edfc79ecf25922b98202dd79a291aa"}
         with open('users.json') as f:
             users = json.load(f)
-        for user in users["hits"]:
+        for user in users:
             i = 1
             stop[user["name"]] = False
             print("**************************************"+user["name"])
